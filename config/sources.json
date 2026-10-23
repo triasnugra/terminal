@@ -1,0 +1,110 @@
+{
+  "_note": "9 mesin. type: journal (JSON publik, tanpa browser) | crypto-dom (Playwright, struktur terverifikasi) | static-html (fetch + regex, template dari main.py) | grok-desk (Playwright, per simbol) | browser-unverified (tidak ditebak; lihat docs/VERIFIED.md).",
+  "engines": {
+    "gemini": {
+      "label": "M1 Gemini",
+      "type": "journal",
+      "family": "Aturan Eliz (tn)",
+      "url": "https://gemini-mesin.vercel.app/",
+      "journalUrl": "https://gemini-mesin.vercel.app/data/journal.json",
+      "forwardReportUrl": "https://gemini-mesin.vercel.app/data/forward-report.json",
+      "fetchTimeoutMs": 30000,
+      "retries": 3
+    },
+    "chatgpt": {
+      "label": "M2 ChatGPT",
+      "type": "journal",
+      "family": "Aturan Eliz (tn)",
+      "url": "https://chatgpt-mesin-three.vercel.app/",
+      "journalUrl": "https://chatgpt-mesin-three.vercel.app/data/journal.json",
+      "forwardReportUrl": "https://chatgpt-mesin-three.vercel.app/data/forward-report.json",
+      "fetchTimeoutMs": 30000,
+      "retries": 3
+    },
+    "mesindeepseek": {
+      "label": "M3 DeepSeek (Py)",
+      "type": "static-html",
+      "family": "Python/Gate",
+      "url": "https://triasnugra.github.io/mesindeepseek/",
+      "fetchTimeoutMs": 30000,
+      "retries": 3
+    },
+    "deepseek": {
+      "label": "M4 DeepSeek",
+      "type": "journal",
+      "family": "Aturan Eliz (tn)",
+      "url": "https://deepseek-mesin.vercel.app/",
+      "journalUrl": "https://deepseek-mesin.vercel.app/data/journal.json",
+      "forwardReportUrl": "https://deepseek-mesin.vercel.app/data/forward-report.json",
+      "fetchTimeoutMs": 30000,
+      "retries": 3
+    },
+    "grokberyl": {
+      "label": "M5 Grok Beryl",
+      "type": "browser-unverified",
+      "family": "Grok desk",
+      "url": "https://grok-mesin-beryl.vercel.app/",
+      "gotoTimeoutMs": 45000,
+      "scanTimeoutMs": 60000,
+      "quietMs": 4000,
+      "scanButtonText": "Pindai ulang"
+    },
+    "grok": {
+      "label": "M6 Grok",
+      "type": "grok-desk",
+      "family": "Grok desk",
+      "url": "https://mesingrok.vercel.app/",
+      "pairs": [
+        "BTCUSDT",
+        "ETHUSDT",
+        "SOLUSDT",
+        "BNBUSDT",
+        "XRPUSDT",
+        "ADAUSDT",
+        "DOGEUSDT",
+        "AVAXUSDT",
+        "LINKUSDT",
+        "TAOUSDT"
+      ],
+      "gotoTimeoutMs": 45000,
+      "scanTimeoutMs": 30000,
+      "quietMs": 2500
+    },
+    "crypto": {
+      "label": "M7 Crypto",
+      "type": "crypto-dom",
+      "family": "Crypto (DOM)",
+      "url": "https://triasnugra.github.io/crypto/",
+      "scanButtonText": "Pindai ulang",
+      "cardSelector": "#setups > article.c",
+      "noSetupMarkerText": null,
+      "gotoTimeoutMs": 45000,
+      "scanTimeoutMs": 120000,
+      "quietMs": 4000
+    },
+    "tn": {
+      "label": "M8 TN",
+      "type": "journal",
+      "family": "Aturan Eliz (tn)",
+      "url": "https://triasnugra.github.io/tn/",
+      "journalUrl": "https://triasnugra.github.io/tn/data/journal.json",
+      "forwardReportUrl": "https://triasnugra.github.io/tn/data/forward-report.json",
+      "fetchTimeoutMs": 30000,
+      "retries": 3
+    },
+    "tnv2": {
+      "label": "M9 TN v2",
+      "type": "journal",
+      "family": "Aturan Eliz (tn)",
+      "url": "https://tnv2.vercel.app/",
+      "journalUrl": "https://tnv2.vercel.app/data/journal.json",
+      "forwardReportUrl": "https://tnv2.vercel.app/data/forward-report.json",
+      "fetchTimeoutMs": 30000,
+      "retries": 3
+    }
+  },
+  "view": {
+    "url": "https://triasnugra.github.io/view/",
+    "note": "Dashboard harga; tidak dipakai sebagai sumber candle."
+  }
+}
