@@ -1,0 +1,170 @@
+{
+  "status": "OK",
+  "diagnostics": {
+    "httpStatus": 200,
+    "errors": [],
+    "warnings": [
+      "ETHUSDT: SHORT potensial — skor 92",
+      "DOGEUSDT: SHORT potensial — skor 91",
+      "AVAXUSDT: SHORT potensial — skor 82"
+    ],
+    "durationMs": 8429,
+    "meta": {
+      "perPair": {
+        "BTCUSDT": 1,
+        "SOLUSDT": 2,
+        "BNBUSDT": 2,
+        "XRPUSDT": 1,
+        "ADAUSDT": 1,
+        "LINKUSDT": 3,
+        "TAOUSDT": 1
+      },
+      "confirmedEmpty": false
+    }
+  },
+  "items": [
+    {
+      "direction": "SHORT",
+      "score": 91,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 80623.3,
+      "entryHigh": 80844.7,
+      "sl": 82134.94,
+      "tp": 79368.67,
+      "symbol": "BTC/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 84,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 102.3025,
+      "entryHigh": 102.73,
+      "sl": 103.3864,
+      "tp": 99.88,
+      "symbol": "SOL/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 77,
+      "reason": "Deviation + reclaim di Supply / resistance.",
+      "entryLow": 98.905,
+      "entryHigh": 101.1373,
+      "sl": 103.4895,
+      "tp": null,
+      "symbol": "SOL/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 87,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 745.217,
+      "entryHigh": 747.47,
+      "sl": 755.7986,
+      "tp": 732.45,
+      "symbol": "BNB/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 80,
+      "reason": "Deviation + reclaim di Supply / resistance.",
+      "entryLow": 715.97,
+      "entryHigh": 730.3217,
+      "sl": 747.2751,
+      "tp": null,
+      "symbol": "BNB/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 84,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 1.3064,
+      "entryHigh": 1.3122,
+      "sl": 1.3208,
+      "tp": 1.2733,
+      "symbol": "XRP/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 82,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 0.207,
+      "entryHigh": 0.2082,
+      "sl": 0.2091,
+      "tp": 0.2005,
+      "symbol": "ADA/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 91,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 11.251,
+      "entryHigh": 11.3077,
+      "sl": 11.0688,
+      "tp": 11.629,
+      "symbol": "LINK/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 88,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 11.5723,
+      "entryHigh": 11.629,
+      "sl": 11.7725,
+      "tp": 11.251,
+      "symbol": "LINK/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 74,
+      "reason": "Sweep + reclaim di Demand / support.",
+      "entryLow": 10.4992,
+      "entryHigh": 10.9085,
+      "sl": 10.2422,
+      "tp": null,
+      "symbol": "LINK/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 93,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 254.78,
+      "entryHigh": 256.1,
+      "sl": 260.8206,
+      "tp": 247.3,
+      "symbol": "TAO/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    }
+  ]
+}
