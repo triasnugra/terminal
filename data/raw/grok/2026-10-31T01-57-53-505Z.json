@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "diagnostics": {
+    "httpStatus": 200,
+    "errors": [],
+    "warnings": [
+      "ETHUSDT: SHORT potensial — skor 92",
+      "SOLUSDT: SHORT potensial — skor 84",
+      "BNBUSDT: SHORT potensial — skor 87",
+      "DOGEUSDT: SHORT potensial — skor 91",
+      "AVAXUSDT: SHORT potensial — skor 82"
+    ],
+    "durationMs": 7124,
+    "meta": {
+      "perPair": {
+        "BTCUSDT": 1,
+        "XRPUSDT": 1,
+        "ADAUSDT": 1,
+        "LINKUSDT": 1,
+        "TAOUSDT": 1
+      },
+      "confirmedEmpty": false
+    }
+  },
+  "items": [
+    {
+      "direction": "SHORT",
+      "score": 91,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 80623.3,
+      "entryHigh": 80844.7,
+      "sl": 82134.94,
+      "tp": 79368.67,
+      "symbol": "BTC/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 84,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 1.3064,
+      "entryHigh": 1.3122,
+      "sl": 1.3208,
+      "tp": 1.2733,
+      "symbol": "XRP/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 82,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 0.207,
+      "entryHigh": 0.2082,
+      "sl": 0.2091,
+      "tp": 0.2005,
+      "symbol": "ADA/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 91,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 11.251,
+      "entryHigh": 11.3077,
+      "sl": 11.0688,
+      "tp": 11.629,
+      "symbol": "LINK/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 93,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 254.78,
+      "entryHigh": 256.1,
+      "sl": 260.8206,
+      "tp": 247.3,
+      "symbol": "TAO/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    }
+  ]
+}
