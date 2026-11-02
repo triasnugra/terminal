@@ -11684,6 +11684,186 @@
         "errors": []
       },
       "fatal": null
+    },
+    {
+      "runAtUtc": "2026-11-02T19:56:54.085Z",
+      "engines": {
+        "gemini": {
+          "status": "OK",
+          "cards": 118,
+          "parsed": 118,
+          "added": 0,
+          "errors": [],
+          "warnings": [],
+          "emptyKind": null,
+          "httpStatus": 200,
+          "durationMs": 352,
+          "forward": {
+            "ready": false,
+            "locked": true,
+            "counts": {
+              "tercatat_sesuai_protokol": 59,
+              "selesai": 35,
+              "menunggu": 24,
+              "terisi": 35,
+              "minggu_berbeda": 2,
+              "diabaikan_mesin_lain": 0,
+              "dilewati_dedupe": 44
+            },
+            "dibuat": "2026-10-20T00:03:25.001Z"
+          },
+          "trackingStarted": false
+        },
+        "chatgpt": {
+          "status": "OK_NO_SETUPS",
+          "cards": 0,
+          "parsed": 0,
+          "added": 0,
+          "errors": [],
+          "warnings": [
+            "FORWARD_REPORT_UNAVAILABLE: HTTP_404"
+          ],
+          "emptyKind": "NO_SETUPS",
+          "httpStatus": 200,
+          "durationMs": 1254,
+          "forward": null,
+          "trackingStarted": false
+        },
+        "mesindeepseek": {
+          "status": "ZERO_CARDS_UNCONFIRMED",
+          "cards": 0,
+          "parsed": 0,
+          "added": 0,
+          "errors": [
+            "NO_COIN_CARDS: struktur halaman berubah atau laporan kosong"
+          ],
+          "warnings": [],
+          "emptyKind": "ZERO_CARDS_UNCONFIRMED",
+          "httpStatus": 200,
+          "durationMs": 75,
+          "forward": null,
+          "trackingStarted": false
+        },
+        "deepseek": {
+          "status": "OK",
+          "cards": 2,
+          "parsed": 2,
+          "added": 0,
+          "errors": [],
+          "warnings": [],
+          "emptyKind": null,
+          "httpStatus": 200,
+          "durationMs": 134,
+          "forward": {
+            "ready": false,
+            "locked": true,
+            "counts": {
+              "tercatat_sesuai_protokol": 2,
+              "selesai": 0,
+              "menunggu": 2,
+              "terisi": 0,
+              "minggu_berbeda": 0,
+              "diabaikan_mesin_lain": 0,
+              "dilewati_dedupe": 0
+            },
+            "dibuat": "2026-10-20T12:59:42.163Z"
+          },
+          "trackingStarted": false
+        },
+        "grokberyl": {
+          "status": "NEEDS_SELECTOR_VERIFICATION",
+          "cards": 0,
+          "parsed": 0,
+          "added": 0,
+          "errors": [],
+          "warnings": [
+            "Tombol 'Pindai ulang' tidak ditemukan/tidak bisa diklik; mengandalkan pemindaian saat load.",
+            "Extractor belum tersedia untuk sumber ini."
+          ],
+          "emptyKind": "NEEDS_SELECTOR_VERIFICATION",
+          "httpStatus": 200,
+          "durationMs": 15187,
+          "forward": null,
+          "trackingStarted": false
+        },
+        "grok": {
+          "status": "OK",
+          "cards": 17,
+          "parsed": 17,
+          "added": 17,
+          "errors": [],
+          "warnings": [
+            "BTCUSDT: SHORT potensial — skor 100",
+            "ETHUSDT: SHORT potensial — skor 87",
+            "LINKUSDT: SHORT potensial — skor 93"
+          ],
+          "emptyKind": null,
+          "httpStatus": 200,
+          "durationMs": 8422,
+          "forward": null,
+          "trackingStarted": false
+        },
+        "crypto": {
+          "status": "OK",
+          "cards": 7,
+          "parsed": 7,
+          "added": 2,
+          "errors": [],
+          "warnings": [],
+          "emptyKind": null,
+          "httpStatus": 200,
+          "durationMs": 9076,
+          "forward": null,
+          "trackingStarted": false
+        },
+        "tn": {
+          "status": "OK",
+          "cards": 424,
+          "parsed": 424,
+          "added": 0,
+          "errors": [],
+          "warnings": [],
+          "emptyKind": null,
+          "httpStatus": 200,
+          "durationMs": 124,
+          "forward": {
+            "ready": false,
+            "locked": true,
+            "counts": {
+              "tercatat_sesuai_protokol": 177,
+              "selesai": 136,
+              "menunggu": 41,
+              "terisi": 97,
+              "minggu_berbeda": 3,
+              "diabaikan_mesin_lain": 0,
+              "dilewati_dedupe": 232
+            },
+            "dibuat": "2026-11-02T11:34:28.716Z"
+          },
+          "trackingStarted": false
+        },
+        "tnv2": {
+          "status": "FAILED",
+          "cards": 0,
+          "parsed": 0,
+          "added": 0,
+          "errors": [
+            "JOURNAL_HTTP_404: HTTP_404"
+          ],
+          "warnings": [],
+          "emptyKind": "FETCH_FAILED",
+          "httpStatus": 404,
+          "durationMs": 7295,
+          "forward": null,
+          "trackingStarted": false
+        }
+      },
+      "evaluation": {
+        "checked": 360,
+        "changed": 98,
+        "errors": []
+      },
+      "fatal": null
     }
   ]
 }
