@@ -1,8 +1,8 @@
 {
-  "generatedAtUtc": "2026-11-06T08:14:42.591Z",
-  "generatedAtWib": "2026-11-06 15:14",
+  "generatedAtUtc": "2026-11-06T16:18:43.049Z",
+  "generatedAtWib": "2026-11-06 23:18",
   "counts": {
-    "setups": 2493,
+    "setups": 2525,
     "engines": 9
   },
   "commonFromUtc": "2026-10-23T15:58:50.182Z",
@@ -32,8 +32,8 @@
         "warnings": [],
         "cards": 118,
         "failureStreak": 0,
-        "lastOkUtc": "2026-11-06T08:13:10.818Z",
-        "runs": 67,
+        "lastOkUtc": "2026-11-06T16:17:17.154Z",
+        "runs": 68,
         "uptime": 1,
         "newestSetupUtc": "2026-10-19T02:27:09.028Z",
         "forward": {
@@ -68,8 +68,8 @@
         ],
         "cards": 0,
         "failureStreak": 0,
-        "lastOkUtc": "2026-11-06T08:13:10.818Z",
-        "runs": 67,
+        "lastOkUtc": "2026-11-06T16:17:17.154Z",
+        "runs": 68,
         "uptime": 1,
         "newestSetupUtc": null,
         "forward": null
@@ -90,9 +90,9 @@
         ],
         "warnings": [],
         "cards": 0,
-        "failureStreak": 67,
+        "failureStreak": 68,
         "lastOkUtc": null,
-        "runs": 67,
+        "runs": 68,
         "uptime": 0,
         "newestSetupUtc": null,
         "forward": null
@@ -112,8 +112,8 @@
         "warnings": [],
         "cards": 2,
         "failureStreak": 0,
-        "lastOkUtc": "2026-11-06T08:13:10.818Z",
-        "runs": 67,
+        "lastOkUtc": "2026-11-06T16:17:17.154Z",
+        "runs": 68,
         "uptime": 1,
         "newestSetupUtc": "2026-10-21T01:23:57.568Z",
         "forward": {
@@ -148,9 +148,9 @@
           "Extractor belum tersedia untuk sumber ini."
         ],
         "cards": 0,
-        "failureStreak": 67,
+        "failureStreak": 68,
         "lastOkUtc": null,
-        "runs": 67,
+        "runs": 68,
         "uptime": 0,
         "newestSetupUtc": null,
         "forward": null
@@ -172,14 +172,15 @@
           "ETHUSDT: SHORT potensial — skor 100",
           "XRPUSDT: SHORT potensial — skor 100",
           "ADAUSDT: SHORT potensial — skor 92",
+          "DOGEUSDT: SHORT potensial — skor 86",
           "LINKUSDT: SHORT potensial — skor 88"
         ],
         "cards": 6,
         "failureStreak": 0,
-        "lastOkUtc": "2026-11-06T08:13:10.818Z",
-        "runs": 67,
+        "lastOkUtc": "2026-11-06T16:17:17.154Z",
+        "runs": 68,
         "uptime": 1,
-        "newestSetupUtc": "2026-11-06T01:02:52.084Z",
+        "newestSetupUtc": "2026-11-06T16:17:17.472Z",
         "forward": null
       }
     },
@@ -195,12 +196,12 @@
         "emptyKind": null,
         "errors": [],
         "warnings": [],
-        "cards": 30,
+        "cards": 35,
         "failureStreak": 0,
-        "lastOkUtc": "2026-11-06T08:13:10.818Z",
-        "runs": 111,
-        "uptime": 0.8108108108108109,
-        "newestSetupUtc": "2026-11-06T08:13:11.111Z",
+        "lastOkUtc": "2026-11-06T16:17:17.154Z",
+        "runs": 112,
+        "uptime": 0.8125,
+        "newestSetupUtc": "2026-11-06T16:17:17.472Z",
         "forward": null
       }
     },
@@ -218,8 +219,8 @@
         "warnings": [],
         "cards": 498,
         "failureStreak": 0,
-        "lastOkUtc": "2026-11-06T08:13:10.818Z",
-        "runs": 111,
+        "lastOkUtc": "2026-11-06T16:17:17.154Z",
+        "runs": 112,
         "uptime": 1,
         "newestSetupUtc": "2026-11-06T01:56:07.958Z",
         "forward": {
@@ -227,14 +228,14 @@
           "locked": true,
           "counts": {
             "tercatat_sesuai_protokol": 200,
-            "selesai": 159,
-            "menunggu": 41,
-            "terisi": 114,
+            "selesai": 170,
+            "menunggu": 30,
+            "terisi": 117,
             "minggu_berbeda": 4,
             "diabaikan_mesin_lain": 0,
             "dilewati_dedupe": 283
           },
-          "dibuat": "2026-11-06T01:56:08.250Z"
+          "dibuat": "2026-11-06T08:47:49.805Z"
         }
       }
     },
@@ -253,9 +254,9 @@
         ],
         "warnings": [],
         "cards": 0,
-        "failureStreak": 67,
+        "failureStreak": 68,
         "lastOkUtc": null,
-        "runs": 67,
+        "runs": 68,
         "uptime": 0,
         "newestSetupUtc": null,
         "forward": null
@@ -3879,29 +3880,29 @@
       },
       "crypto": {
         "summary": {
-          "published": 659,
+          "published": 672,
           "triggered": 351,
           "counts": {
-            "PENDING": 55,
+            "PENDING": 65,
             "TP": 44,
-            "SL": 269,
+            "SL": 270,
             "CANCELLED": 0,
-            "EXPIRED": 283,
+            "EXPIRED": 285,
             "INVALID": 8,
             "AMBIGUOUS": 0
           },
-          "resolved": 313,
-          "winRate": 0.14057507987220447,
+          "resolved": 314,
+          "winRate": 0.14012738853503184,
           "winRateCI95": [
-            0.10641263037725196,
-            0.1834533468176618
+            0.10606808021593493,
+            0.1828859144782775
           ],
-          "expectancyR": -0.4253290104207822,
-          "avgR": -0.4253290104207822,
-          "totalR": -133.12798026170483,
+          "expectancyR": -0.42715917280797716,
+          "avgR": -0.42715917280797716,
+          "totalR": -134.12798026170483,
           "maxDrawdownR": 145.18134326369514,
           "avgMinutesToEntry": 768.6553215099718,
-          "avgMinutesToResult": 2603.7214919062812
+          "avgMinutesToResult": 2598.0062385350298
         },
         "byTicker": {
           "(tidak tersedia)": {
@@ -4431,14 +4432,14 @@
             "avgMinutesToResult": null
           },
           "CRCLB": {
-            "published": 15,
+            "published": 16,
             "triggered": 9,
             "counts": {
               "PENDING": 1,
               "TP": 1,
               "SL": 8,
               "CANCELLED": 0,
-              "EXPIRED": 5,
+              "EXPIRED": 6,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -4454,6 +4455,28 @@
             "maxDrawdownR": 7,
             "avgMinutesToEntry": 805.6443203703705,
             "avgMinutesToResult": 1453.6443203703702
+          },
+          "CYBER": {
+            "published": 1,
+            "triggered": 0,
+            "counts": {
+              "PENDING": 1,
+              "TP": 0,
+              "SL": 0,
+              "CANCELLED": 0,
+              "EXPIRED": 0,
+              "INVALID": 0,
+              "AMBIGUOUS": 0
+            },
+            "resolved": 0,
+            "winRate": null,
+            "winRateCI95": null,
+            "expectancyR": null,
+            "avgR": null,
+            "totalR": 0,
+            "maxDrawdownR": 0,
+            "avgMinutesToEntry": null,
+            "avgMinutesToResult": null
           },
           "DODO": {
             "published": 2,
@@ -4869,10 +4892,10 @@
             "avgMinutesToResult": null
           },
           "INJ": {
-            "published": 19,
+            "published": 20,
             "triggered": 5,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 3,
               "TP": 0,
               "SL": 3,
               "CANCELLED": 0,
@@ -4988,10 +5011,10 @@
             "avgMinutesToResult": 11499.716266666666
           },
           "KORUB": {
-            "published": 4,
+            "published": 5,
             "triggered": 2,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 0,
               "SL": 2,
               "CANCELLED": 0,
@@ -5182,10 +5205,10 @@
             "avgMinutesToResult": 2213.228416666667
           },
           "MUB": {
-            "published": 6,
+            "published": 7,
             "triggered": 5,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 1,
               "SL": 4,
               "CANCELLED": 0,
@@ -5539,10 +5562,10 @@
             "avgMinutesToResult": null
           },
           "SKHYB": {
-            "published": 7,
+            "published": 8,
             "triggered": 4,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 0,
               "SL": 3,
               "CANCELLED": 0,
@@ -5564,10 +5587,10 @@
             "avgMinutesToResult": 1735.4853555555555
           },
           "SNDKB": {
-            "published": 13,
+            "published": 14,
             "triggered": 8,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 0,
               "SL": 8,
               "CANCELLED": 0,
@@ -5587,6 +5610,28 @@
             "maxDrawdownR": 8,
             "avgMinutesToEntry": 808.3225458333334,
             "avgMinutesToResult": 1164.0725458333334
+          },
+          "SNXXB": {
+            "published": 1,
+            "triggered": 0,
+            "counts": {
+              "PENDING": 1,
+              "TP": 0,
+              "SL": 0,
+              "CANCELLED": 0,
+              "EXPIRED": 0,
+              "INVALID": 0,
+              "AMBIGUOUS": 0
+            },
+            "resolved": 0,
+            "winRate": null,
+            "winRateCI95": null,
+            "expectancyR": null,
+            "avgR": null,
+            "totalR": 0,
+            "maxDrawdownR": 0,
+            "avgMinutesToEntry": null,
+            "avgMinutesToResult": null
           },
           "SOL": {
             "published": 18,
@@ -5636,10 +5681,10 @@
             "avgMinutesToResult": null
           },
           "SOXLB": {
-            "published": 12,
+            "published": 13,
             "triggered": 9,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 1,
               "SL": 8,
               "CANCELLED": 0,
@@ -5730,10 +5775,10 @@
             "avgMinutesToResult": null
           },
           "SUI": {
-            "published": 16,
+            "published": 17,
             "triggered": 10,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 2,
               "SL": 7,
               "CANCELLED": 0,
@@ -5808,11 +5853,11 @@
             "published": 4,
             "triggered": 1,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 0,
               "TP": 0,
               "SL": 1,
               "CANCELLED": 0,
-              "EXPIRED": 2,
+              "EXPIRED": 3,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -5830,10 +5875,10 @@
             "avgMinutesToResult": 8640.885916666666
           },
           "TRUMP": {
-            "published": 4,
+            "published": 5,
             "triggered": 2,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 1,
               "SL": 0,
               "CANCELLED": 0,
@@ -6068,29 +6113,29 @@
             "avgMinutesToResult": 2071.0319
           },
           "XRP": {
-            "published": 17,
+            "published": 18,
             "triggered": 13,
             "counts": {
               "PENDING": 2,
               "TP": 3,
-              "SL": 9,
+              "SL": 10,
               "CANCELLED": 0,
               "EXPIRED": 3,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
-            "resolved": 12,
-            "winRate": 0.25,
+            "resolved": 13,
+            "winRate": 0.23076923076923078,
             "winRateCI95": [
-              0.08894003962896138,
-              0.53231033912066
+              0.08179379092465713,
+              0.5025687399512693
             ],
-            "expectancyR": -0.024643064116746216,
-            "avgR": -0.024643064116746216,
-            "totalR": -0.2957167694009546,
+            "expectancyR": -0.09967052072315036,
+            "avgR": -0.09967052072315036,
+            "totalR": -1.2957167694009546,
             "maxDrawdownR": 6,
             "avgMinutesToEntry": 778.9637423076922,
-            "avgMinutesToResult": 3782.1997263888893
+            "avgMinutesToResult": 3553.502203846154
           },
           "ZAMA": {
             "published": 3,
@@ -6115,10 +6160,10 @@
             "avgMinutesToResult": null
           },
           "ZEC": {
-            "published": 11,
+            "published": 12,
             "triggered": 4,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 3,
               "TP": 0,
               "SL": 2,
               "CANCELLED": 0,
@@ -6167,39 +6212,39 @@
         },
         "byDirection": {
           "LONG": {
-            "published": 346,
+            "published": 355,
             "triggered": 227,
             "counts": {
-              "PENDING": 28,
+              "PENDING": 36,
               "TP": 10,
-              "SL": 196,
+              "SL": 197,
               "CANCELLED": 0,
               "EXPIRED": 108,
               "INVALID": 4,
               "AMBIGUOUS": 0
             },
-            "resolved": 206,
-            "winRate": 0.04854368932038835,
+            "resolved": 207,
+            "winRate": 0.04830917874396135,
             "winRateCI95": [
-              0.026578384155883917,
-              0.08703874419235588
+              0.02644895792995485,
+              0.08662929607684455
             ],
-            "expectancyR": -0.765096282420051,
-            "avgR": -0.765096282420051,
-            "totalR": -157.60983417853052,
-            "maxDrawdownR": 157.60983417853052,
+            "expectancyR": -0.7662310829880702,
+            "avgR": -0.7662310829880702,
+            "totalR": -158.60983417853052,
+            "maxDrawdownR": 158.60983417853052,
             "avgMinutesToEntry": 873.7698571952999,
-            "avgMinutesToResult": 2860.3035445792852
+            "avgMinutesToResult": 2850.3945029790634
           },
           "SHORT": {
-            "published": 313,
+            "published": 317,
             "triggered": 124,
             "counts": {
-              "PENDING": 27,
+              "PENDING": 29,
               "TP": 34,
               "SL": 73,
               "CANCELLED": 0,
-              "EXPIRED": 175,
+              "EXPIRED": 177,
               "INVALID": 4,
               "AMBIGUOUS": 0
             },
@@ -6219,10 +6264,10 @@
         },
         "byReason": {
           "Breakdown, retest gagal (failed reclaim)": {
-            "published": 34,
+            "published": 36,
             "triggered": 30,
             "counts": {
-              "PENDING": 4,
+              "PENDING": 6,
               "TP": 6,
               "SL": 21,
               "CANCELLED": 0,
@@ -6269,10 +6314,10 @@
             "avgMinutesToResult": 1228.2284125
           },
           "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah": {
-            "published": 36,
+            "published": 38,
             "triggered": 13,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 4,
               "TP": 2,
               "SL": 9,
               "CANCELLED": 0,
@@ -6294,10 +6339,10 @@
             "avgMinutesToResult": 2517.0633515151517
           },
           "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah": {
-            "published": 121,
+            "published": 122,
             "triggered": 93,
             "counts": {
-              "PENDING": 10,
+              "PENDING": 11,
               "TP": 3,
               "SL": 83,
               "CANCELLED": 0,
@@ -6372,11 +6417,11 @@
             "published": 175,
             "triggered": 52,
             "counts": {
-              "PENDING": 14,
+              "PENDING": 12,
               "TP": 23,
               "SL": 23,
               "CANCELLED": 0,
-              "EXPIRED": 114,
+              "EXPIRED": 116,
               "INVALID": 1,
               "AMBIGUOUS": 0
             },
@@ -6394,10 +6439,10 @@
             "avgMinutesToResult": 1788.9637083333334
           },
           "Sweep Monday Low, lalu reclaim": {
-            "published": 117,
+            "published": 119,
             "triggered": 69,
             "counts": {
-              "PENDING": 9,
+              "PENDING": 11,
               "TP": 3,
               "SL": 58,
               "CANCELLED": 0,
@@ -6444,29 +6489,29 @@
             "avgMinutesToResult": 1409.9885055555558
           },
           "Sweep di bawah range, lalu reclaim": {
-            "published": 37,
+            "published": 43,
             "triggered": 23,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 7,
               "TP": 2,
-              "SL": 20,
+              "SL": 21,
               "CANCELLED": 0,
               "EXPIRED": 13,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
-            "resolved": 22,
-            "winRate": 0.09090909090909091,
+            "resolved": 23,
+            "winRate": 0.08695652173913043,
             "winRateCI95": [
-              0.025294896282837792,
-              0.2781538065838578
+              0.02417949540723341,
+              0.2679640429809402
             ],
-            "expectancyR": -0.5965107853519861,
-            "avgR": -0.5965107853519861,
-            "totalR": -13.123237277743694,
-            "maxDrawdownR": 13.123237277743694,
+            "expectancyR": -0.6140537946845085,
+            "avgR": -0.6140537946845085,
+            "totalR": -14.123237277743694,
+            "maxDrawdownR": 14.123237277743694,
             "avgMinutesToEntry": 790.8916297101448,
-            "avgMinutesToResult": 3271.289797727273
+            "avgMinutesToResult": 3164.2394557971015
           },
           "Three Tap: 2 sentuhan, lalu sweep dan reclaim": {
             "published": 39,
@@ -6712,10 +6757,10 @@
           },
           {
             "period": "2026-11-06",
-            "resolved": 6,
+            "resolved": 7,
             "tp": 2,
-            "sl": 4,
-            "totalR": -0.029733959311422975
+            "sl": 5,
+            "totalR": -1.029733959311423
           }
         ],
         "weekly": [
@@ -6742,10 +6787,10 @@
           },
           {
             "period": "2026-W45",
-            "resolved": 104,
+            "resolved": 105,
             "tp": 20,
-            "sl": 84,
-            "totalR": -19.59506451272822
+            "sl": 85,
+            "totalR": -20.59506451272822
           }
         ],
         "monthly": [
@@ -6758,10 +6803,10 @@
           },
           {
             "period": "2026-11",
-            "resolved": 109,
+            "resolved": 110,
             "tp": 21,
-            "sl": 88,
-            "totalR": -22.309350227013937
+            "sl": 89,
+            "totalR": -23.309350227013937
           }
         ],
         "curve": [
@@ -8016,13 +8061,17 @@
           [
             "2026-11-05T23:17:00.000Z",
             -133.128
+          ],
+          [
+            "2026-11-06T14:32:00.000Z",
+            -134.128
           ]
         ]
       },
       "tn": {
         "summary": {
           "published": 444,
-          "triggered": 161,
+          "triggered": 162,
           "counts": {
             "PENDING": 41,
             "TP": 52,
@@ -8042,7 +8091,7 @@
           "avgR": 0.13871199159382708,
           "totalR": 19.00354284835431,
           "maxDrawdownR": 23.995569833728155,
-          "avgMinutesToEntry": 748.2157439958596,
+          "avgMinutesToEntry": 745.9605072016466,
           "avgMinutesToResult": 4390.448063746958
         },
         "byTicker": {
@@ -9238,7 +9287,7 @@
           },
           "PEPE": {
             "published": 13,
-            "triggered": 3,
+            "triggered": 4,
             "counts": {
               "PENDING": 1,
               "TP": 1,
@@ -9258,7 +9307,7 @@
             "avgR": 7.401486830834377e-16,
             "totalR": 2.220446049250313e-15,
             "maxDrawdownR": 1,
-            "avgMinutesToEntry": 200.24642777777777,
+            "avgMinutesToEntry": 245.90166666666667,
             "avgMinutesToResult": 2201.2464277777776
           },
           "PUMP": {
@@ -9891,7 +9940,7 @@
           },
           "SHORT": {
             "published": 301,
-            "triggered": 86,
+            "triggered": 87,
             "counts": {
               "PENDING": 33,
               "TP": 42,
@@ -9911,7 +9960,7 @@
             "avgR": 0.8529772925269494,
             "totalR": 58.00245589183256,
             "maxDrawdownR": 10,
-            "avgMinutesToEntry": 798.1421131782945,
+            "avgMinutesToEntry": 793.3688404214558,
             "avgMinutesToResult": 5538.822224754903
           }
         },
@@ -11036,7 +11085,7 @@
           },
           "sweep Monday High lalu reclaim": {
             "published": 39,
-            "triggered": 15,
+            "triggered": 16,
             "counts": {
               "PENDING": 3,
               "TP": 6,
@@ -11056,7 +11105,7 @@
             "avgR": 0.384750209037007,
             "totalR": 5.001752717481091,
             "maxDrawdownR": 4,
-            "avgMinutesToEntry": 299.7688611111111,
+            "avgMinutesToEntry": 304.96251875,
             "avgMinutesToResult": 4465.701083333334
           },
           "sweep Monday Low lalu reclaim, Fib 0.75 tren naik, searah tren": {
@@ -15069,10 +15118,10 @@
       },
       "grok": {
         "summary": {
-          "published": 329,
+          "published": 331,
           "triggered": 129,
           "counts": {
-            "PENDING": 1,
+            "PENDING": 3,
             "TP": 43,
             "SL": 85,
             "CANCELLED": 0,
@@ -15120,10 +15169,10 @@
             "avgMinutesToResult": 757.8536196969696
           },
           "AVAX": {
-            "published": 25,
+            "published": 26,
             "triggered": 16,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 3,
               "SL": 12,
               "CANCELLED": 0,
@@ -15295,10 +15344,10 @@
             "avgMinutesToResult": 396.31224444444433
           },
           "TAO": {
-            "published": 34,
+            "published": 35,
             "triggered": 15,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 5,
               "SL": 10,
               "CANCELLED": 0,
@@ -15347,10 +15396,10 @@
         },
         "byDirection": {
           "LONG": {
-            "published": 130,
+            "published": 132,
             "triggered": 66,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 3,
               "TP": 20,
               "SL": 45,
               "CANCELLED": 0,
@@ -15468,10 +15517,10 @@
             "avgMinutesToResult": null
           },
           "Sweep Monday Low lalu reclaim ke dalam range.": {
-            "published": 99,
+            "published": 101,
             "triggered": 66,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 3,
               "TP": 20,
               "SL": 45,
               "CANCELLED": 0,
@@ -16135,29 +16184,29 @@
       },
       "crypto": {
         "summary": {
-          "published": 1495,
-          "triggered": 776,
+          "published": 1525,
+          "triggered": 777,
           "counts": {
-            "PENDING": 103,
+            "PENDING": 124,
             "TP": 92,
-            "SL": 616,
+            "SL": 617,
             "CANCELLED": 0,
-            "EXPIRED": 669,
+            "EXPIRED": 677,
             "INVALID": 15,
             "AMBIGUOUS": 0
           },
-          "resolved": 708,
-          "winRate": 0.12994350282485875,
+          "resolved": 709,
+          "winRate": 0.12976022566995768,
           "winRateCI95": [
-            0.10715893884092936,
-            0.15672223921890865
+            0.10700603697650186,
+            0.1565049590147534
           ],
-          "expectancyR": -0.4265250923706366,
-          "avgR": -0.4265250923706366,
-          "totalR": -301.97976539841073,
+          "expectancyR": -0.42733394273400666,
+          "avgR": -0.42733394273400666,
+          "totalR": -302.97976539841073,
           "maxDrawdownR": 338.8479955459178,
-          "avgMinutesToEntry": 950.8300443084162,
-          "avgMinutesToResult": 2865.804761417141
+          "avgMinutesToEntry": 949.6073734877704,
+          "avgMinutesToResult": 2862.9039534790822
         },
         "byTicker": {
           "(tidak tersedia)": {
@@ -16183,10 +16232,10 @@
             "avgMinutesToResult": null
           },
           "AAVE": {
-            "published": 41,
+            "published": 42,
             "triggered": 26,
             "counts": {
-              "PENDING": 10,
+              "PENDING": 11,
               "TP": 1,
               "SL": 20,
               "CANCELLED": 0,
@@ -16208,10 +16257,10 @@
             "avgMinutesToResult": 1841.2297984126985
           },
           "ADA": {
-            "published": 33,
+            "published": 34,
             "triggered": 24,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 2,
               "SL": 21,
               "CANCELLED": 0,
@@ -16593,10 +16642,10 @@
             "avgMinutesToResult": 74.88591666666666
           },
           "BNB": {
-            "published": 28,
+            "published": 29,
             "triggered": 15,
             "counts": {
-              "PENDING": 5,
+              "PENDING": 6,
               "TP": 1,
               "SL": 12,
               "CANCELLED": 0,
@@ -16690,14 +16739,14 @@
             "avgMinutesToResult": null
           },
           "CRCLB": {
-            "published": 49,
+            "published": 50,
             "triggered": 24,
             "counts": {
               "PENDING": 1,
               "TP": 2,
               "SL": 22,
               "CANCELLED": 0,
-              "EXPIRED": 24,
+              "EXPIRED": 25,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -16713,6 +16762,28 @@
             "maxDrawdownR": 20.169336384439358,
             "avgMinutesToEntry": 640.7345645833332,
             "avgMinutesToResult": 1449.8595645833332
+          },
+          "CYBER": {
+            "published": 1,
+            "triggered": 0,
+            "counts": {
+              "PENDING": 1,
+              "TP": 0,
+              "SL": 0,
+              "CANCELLED": 0,
+              "EXPIRED": 0,
+              "INVALID": 0,
+              "AMBIGUOUS": 0
+            },
+            "resolved": 0,
+            "winRate": null,
+            "winRateCI95": null,
+            "expectancyR": null,
+            "avgR": null,
+            "totalR": 0,
+            "maxDrawdownR": 0,
+            "avgMinutesToEntry": null,
+            "avgMinutesToResult": null
           },
           "DODO": {
             "published": 2,
@@ -16740,10 +16811,10 @@
             "avgMinutesToResult": 506.04565
           },
           "DOGE": {
-            "published": 27,
+            "published": 28,
             "triggered": 20,
             "counts": {
-              "PENDING": 3,
+              "PENDING": 4,
               "TP": 0,
               "SL": 17,
               "CANCELLED": 0,
@@ -16787,10 +16858,10 @@
             "avgMinutesToResult": null
           },
           "ENA": {
-            "published": 23,
+            "published": 24,
             "triggered": 8,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 2,
               "SL": 6,
               "CANCELLED": 0,
@@ -16912,10 +16983,10 @@
             "avgMinutesToResult": 3747.883058333333
           },
           "GOOGLB": {
-            "published": 15,
+            "published": 16,
             "triggered": 9,
             "counts": {
-              "PENDING": 6,
+              "PENDING": 7,
               "TP": 0,
               "SL": 6,
               "CANCELLED": 0,
@@ -17128,14 +17199,14 @@
             "avgMinutesToResult": null
           },
           "INJ": {
-            "published": 37,
+            "published": 38,
             "triggered": 7,
             "counts": {
               "PENDING": 3,
               "TP": 0,
               "SL": 5,
               "CANCELLED": 0,
-              "EXPIRED": 29,
+              "EXPIRED": 30,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -17247,10 +17318,10 @@
             "avgMinutesToResult": 11499.716266666666
           },
           "KORUB": {
-            "published": 8,
+            "published": 9,
             "triggered": 4,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 0,
               "SL": 4,
               "CANCELLED": 0,
@@ -17294,10 +17365,10 @@
             "avgMinutesToResult": null
           },
           "LINK": {
-            "published": 48,
+            "published": 49,
             "triggered": 38,
             "counts": {
-              "PENDING": 12,
+              "PENDING": 13,
               "TP": 0,
               "SL": 28,
               "CANCELLED": 0,
@@ -17441,10 +17512,10 @@
             "avgMinutesToResult": 2988.8786953703707
           },
           "MUB": {
-            "published": 12,
+            "published": 13,
             "triggered": 10,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 3,
               "SL": 7,
               "CANCELLED": 0,
@@ -17466,10 +17537,10 @@
             "avgMinutesToResult": 5963.825856666666
           },
           "NEAR": {
-            "published": 56,
+            "published": 57,
             "triggered": 34,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 3,
               "TP": 3,
               "SL": 30,
               "CANCELLED": 0,
@@ -17513,14 +17584,14 @@
             "avgMinutesToResult": null
           },
           "NVDAB": {
-            "published": 12,
+            "published": 13,
             "triggered": 3,
             "counts": {
               "PENDING": 1,
               "TP": 2,
               "SL": 1,
               "CANCELLED": 0,
-              "EXPIRED": 8,
+              "EXPIRED": 9,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -17657,10 +17728,10 @@
             "avgMinutesToResult": 410.1547233333334
           },
           "PUMP": {
-            "published": 27,
+            "published": 28,
             "triggered": 16,
             "counts": {
-              "PENDING": 3,
+              "PENDING": 4,
               "TP": 1,
               "SL": 13,
               "CANCELLED": 0,
@@ -17729,14 +17800,14 @@
             "avgMinutesToResult": 3092.0661346153847
           },
           "QQQB": {
-            "published": 6,
+            "published": 7,
             "triggered": 2,
             "counts": {
               "PENDING": 1,
               "TP": 2,
               "SL": 0,
               "CANCELLED": 0,
-              "EXPIRED": 3,
+              "EXPIRED": 4,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -17798,10 +17869,10 @@
             "avgMinutesToResult": null
           },
           "SKHYB": {
-            "published": 9,
+            "published": 10,
             "triggered": 4,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 0,
               "SL": 3,
               "CANCELLED": 0,
@@ -17823,10 +17894,10 @@
             "avgMinutesToResult": 1735.4853555555555
           },
           "SNDKB": {
-            "published": 36,
+            "published": 37,
             "triggered": 20,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 1,
               "SL": 19,
               "CANCELLED": 0,
@@ -17847,11 +17918,33 @@
             "avgMinutesToEntry": 543.5791675,
             "avgMinutesToResult": 835.5791674999998
           },
-          "SOL": {
-            "published": 48,
-            "triggered": 33,
+          "SNXXB": {
+            "published": 1,
+            "triggered": 0,
             "counts": {
               "PENDING": 1,
+              "TP": 0,
+              "SL": 0,
+              "CANCELLED": 0,
+              "EXPIRED": 0,
+              "INVALID": 0,
+              "AMBIGUOUS": 0
+            },
+            "resolved": 0,
+            "winRate": null,
+            "winRateCI95": null,
+            "expectancyR": null,
+            "avgR": null,
+            "totalR": 0,
+            "maxDrawdownR": 0,
+            "avgMinutesToEntry": null,
+            "avgMinutesToResult": null
+          },
+          "SOL": {
+            "published": 49,
+            "triggered": 33,
+            "counts": {
+              "PENDING": 2,
               "TP": 3,
               "SL": 30,
               "CANCELLED": 0,
@@ -17895,10 +17988,10 @@
             "avgMinutesToResult": null
           },
           "SOXLB": {
-            "published": 29,
+            "published": 30,
             "triggered": 20,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 2,
               "SL": 18,
               "CANCELLED": 0,
@@ -17920,14 +18013,14 @@
             "avgMinutesToResult": 3041.4053341666663
           },
           "SPCXB": {
-            "published": 41,
+            "published": 42,
             "triggered": 14,
             "counts": {
               "PENDING": 1,
               "TP": 1,
               "SL": 13,
               "CANCELLED": 0,
-              "EXPIRED": 26,
+              "EXPIRED": 27,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -17989,10 +18082,10 @@
             "avgMinutesToResult": null
           },
           "SUI": {
-            "published": 34,
+            "published": 35,
             "triggered": 24,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 3,
               "TP": 3,
               "SL": 19,
               "CANCELLED": 0,
@@ -18014,10 +18107,10 @@
             "avgMinutesToResult": 2827.1629356060603
           },
           "TAO": {
-            "published": 55,
+            "published": 56,
             "triggered": 38,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 3,
               "SL": 35,
               "CANCELLED": 0,
@@ -18064,14 +18157,14 @@
             "avgMinutesToResult": 2567.892527777778
           },
           "TQQQB": {
-            "published": 7,
+            "published": 8,
             "triggered": 3,
             "counts": {
               "PENDING": 1,
               "TP": 0,
               "SL": 3,
               "CANCELLED": 0,
-              "EXPIRED": 3,
+              "EXPIRED": 4,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -18089,10 +18182,10 @@
             "avgMinutesToResult": 5745.373677777778
           },
           "TRUMP": {
-            "published": 6,
-            "triggered": 3,
+            "published": 7,
+            "triggered": 4,
             "counts": {
-              "PENDING": 3,
+              "PENDING": 4,
               "TP": 1,
               "SL": 0,
               "CANCELLED": 0,
@@ -18110,7 +18203,7 @@
             "avgR": 3.1688311688311703,
             "totalR": 3.1688311688311703,
             "maxDrawdownR": 0,
-            "avgMinutesToEntry": 11.93436111111111,
+            "avgMinutesToEntry": 9.154475,
             "avgMinutesToResult": 3501.9622833333333
           },
           "TRX": {
@@ -18158,14 +18251,14 @@
             "avgMinutesToResult": null
           },
           "UNI": {
-            "published": 58,
+            "published": 59,
             "triggered": 36,
             "counts": {
               "PENDING": 1,
               "TP": 3,
               "SL": 33,
               "CANCELLED": 0,
-              "EXPIRED": 21,
+              "EXPIRED": 22,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -18183,10 +18276,10 @@
             "avgMinutesToResult": 5409.85672037037
           },
           "WLD": {
-            "published": 34,
+            "published": 35,
             "triggered": 11,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 3,
               "SL": 8,
               "CANCELLED": 0,
@@ -18327,29 +18420,29 @@
             "avgMinutesToResult": 1857.9593499999999
           },
           "XRP": {
-            "published": 34,
+            "published": 35,
             "triggered": 28,
             "counts": {
               "PENDING": 2,
               "TP": 10,
-              "SL": 17,
+              "SL": 18,
               "CANCELLED": 0,
               "EXPIRED": 5,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
-            "resolved": 27,
-            "winRate": 0.37037037037037035,
+            "resolved": 28,
+            "winRate": 0.35714285714285715,
             "winRateCI95": [
-              0.21532287067936856,
-              0.5577109537655369
+              0.20705611972458876,
+              0.5417002241777278
             ],
-            "expectancyR": 0.772374626427815,
-            "avgR": 0.772374626427815,
-            "totalR": 20.854114913551005,
+            "expectancyR": 0.7090755326268215,
+            "avgR": 0.7090755326268215,
+            "totalR": 19.854114913551005,
             "maxDrawdownR": 13,
             "avgMinutesToEntry": 1301.416886904762,
-            "avgMinutesToResult": 3975.205218518519
+            "avgMinutesToResult": 3862.131172619048
           },
           "ZAMA": {
             "published": 4,
@@ -18374,14 +18467,14 @@
             "avgMinutesToResult": null
           },
           "ZEC": {
-            "published": 33,
+            "published": 34,
             "triggered": 9,
             "counts": {
               "PENDING": 7,
               "TP": 0,
               "SL": 3,
               "CANCELLED": 0,
-              "EXPIRED": 23,
+              "EXPIRED": 24,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -18426,39 +18519,39 @@
         },
         "byDirection": {
           "LONG": {
-            "published": 838,
+            "published": 853,
             "triggered": 559,
             "counts": {
-              "PENDING": 54,
+              "PENDING": 66,
               "TP": 40,
-              "SL": 481,
+              "SL": 482,
               "CANCELLED": 0,
-              "EXPIRED": 255,
+              "EXPIRED": 257,
               "INVALID": 8,
               "AMBIGUOUS": 0
             },
-            "resolved": 521,
-            "winRate": 0.07677543186180422,
+            "resolved": 522,
+            "winRate": 0.07662835249042145,
             "winRateCI95": [
-              0.056886014699133416,
-              0.10286046881132001
+              0.05677605262676591,
+              0.10266663886055652
             ],
-            "expectancyR": -0.5976283198348661,
-            "avgR": -0.5976283198348661,
-            "totalR": -311.3643546339652,
+            "expectancyR": -0.5983991468083625,
+            "avgR": -0.5983991468083625,
+            "totalR": -312.3643546339652,
             "maxDrawdownR": 349.4001916452153,
             "avgMinutesToEntry": 1066.1193787119814,
-            "avgMinutesToResult": 3103.9358018554076
+            "avgMinutesToResult": 3099.5396258620704
           },
           "SHORT": {
-            "published": 657,
-            "triggered": 217,
+            "published": 672,
+            "triggered": 218,
             "counts": {
-              "PENDING": 49,
+              "PENDING": 58,
               "TP": 52,
               "SL": 135,
               "CANCELLED": 0,
-              "EXPIRED": 414,
+              "EXPIRED": 420,
               "INVALID": 7,
               "AMBIGUOUS": 0
             },
@@ -18472,16 +18565,16 @@
             "avgR": 0.050184969174088094,
             "totalR": 9.384589235554474,
             "maxDrawdownR": 65.40091553021162,
-            "avgMinutesToEntry": 653.8404685867895,
+            "avgMinutesToEntry": 650.8449380733945,
             "avgMinutesToResult": 2202.3487610516936
           }
         },
         "byReason": {
           "Breakdown, retest gagal (failed reclaim)": {
-            "published": 61,
-            "triggered": 55,
+            "published": 63,
+            "triggered": 56,
             "counts": {
-              "PENDING": 6,
+              "PENDING": 8,
               "TP": 10,
               "SL": 41,
               "CANCELLED": 0,
@@ -18499,7 +18592,7 @@
             "avgR": -0.42690845827855795,
             "totalR": -21.772331372206455,
             "maxDrawdownR": 31.86597744360901,
-            "avgMinutesToEntry": 324.2188187878788,
+            "avgMinutesToEntry": 318.44374732142853,
             "avgMinutesToResult": 2746.0314225490197
           },
           "Breakout dengan acceptance, retest level": {
@@ -18528,10 +18621,10 @@
             "avgMinutesToResult": 1661.0176933333332
           },
           "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah": {
-            "published": 64,
+            "published": 66,
             "triggered": 18,
             "counts": {
-              "PENDING": 3,
+              "PENDING": 5,
               "TP": 3,
               "SL": 12,
               "CANCELLED": 0,
@@ -18553,10 +18646,10 @@
             "avgMinutesToResult": 1946.2959322222225
           },
           "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah": {
-            "published": 361,
+            "published": 367,
             "triggered": 283,
             "counts": {
-              "PENDING": 21,
+              "PENDING": 27,
               "TP": 20,
               "SL": 250,
               "CANCELLED": 0,
@@ -18628,14 +18721,14 @@
             "avgMinutesToResult": 2174.1785958333335
           },
           "Sweep Monday High, lalu kembali masuk": {
-            "published": 427,
+            "published": 438,
             "triggered": 103,
             "counts": {
-              "PENDING": 32,
+              "PENDING": 37,
               "TP": 34,
               "SL": 53,
               "CANCELLED": 0,
-              "EXPIRED": 306,
+              "EXPIRED": 312,
               "INVALID": 2,
               "AMBIGUOUS": 0
             },
@@ -18653,14 +18746,14 @@
             "avgMinutesToResult": 2155.6895446360145
           },
           "Sweep Monday Low, lalu reclaim": {
-            "published": 288,
+            "published": 291,
             "triggered": 163,
             "counts": {
-              "PENDING": 19,
+              "PENDING": 20,
               "TP": 10,
               "SL": 137,
               "CANCELLED": 0,
-              "EXPIRED": 119,
+              "EXPIRED": 121,
               "INVALID": 3,
               "AMBIGUOUS": 0
             },
@@ -18703,29 +18796,29 @@
             "avgMinutesToResult": 1723.2828833333335
           },
           "Sweep di bawah range, lalu reclaim": {
-            "published": 65,
+            "published": 71,
             "triggered": 41,
             "counts": {
-              "PENDING": 3,
+              "PENDING": 8,
               "TP": 8,
-              "SL": 32,
+              "SL": 33,
               "CANCELLED": 0,
               "EXPIRED": 22,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
-            "resolved": 40,
-            "winRate": 0.2,
+            "resolved": 41,
+            "winRate": 0.1951219512195122,
             "winRateCI95": [
-              0.10499864973166874,
-              0.34757607381856676
+              0.10234315749205929,
+              0.34013882352556724
             ],
-            "expectancyR": 0.0009116170228694376,
-            "avgR": 0.0009116170228694376,
-            "totalR": 0.0364646809147775,
-            "maxDrawdownR": 13.762829007852671,
+            "expectancyR": -0.02350086144110299,
+            "avgR": -0.02350086144110299,
+            "totalR": -0.9635353190852225,
+            "maxDrawdownR": 14.762829007852671,
             "avgMinutesToEntry": 852.9562707317075,
-            "avgMinutesToResult": 3936.2768791666667
+            "avgMinutesToResult": 3860.005051219512
           },
           "Three Tap: 2 sentuhan, lalu sweep dan reclaim": {
             "published": 78,
@@ -18978,10 +19071,10 @@
           },
           {
             "period": "2026-11-06",
-            "resolved": 10,
+            "resolved": 11,
             "tp": 3,
-            "sl": 7,
-            "totalR": 0.17026604068858697
+            "sl": 8,
+            "totalR": -0.829733959311413
           }
         ],
         "weekly": [
@@ -19008,10 +19101,10 @@
           },
           {
             "period": "2026-W45",
-            "resolved": 244,
+            "resolved": 245,
             "tp": 41,
-            "sl": 203,
-            "totalR": -58.84888857587766
+            "sl": 204,
+            "totalR": -59.84888857587766
           }
         ],
         "monthly": [
@@ -19024,10 +19117,10 @@
           },
           {
             "period": "2026-11",
-            "resolved": 257,
+            "resolved": 258,
             "tp": 42,
-            "sl": 215,
-            "totalR": -69.56317429016332
+            "sl": 216,
+            "totalR": -70.56317429016332
           }
         ],
         "curve": [
@@ -21862,13 +21955,17 @@
           [
             "2026-11-05T23:19:00.000Z",
             -301.98
+          ],
+          [
+            "2026-11-06T14:32:00.000Z",
+            -302.98
           ]
         ]
       },
       "tn": {
         "summary": {
           "published": 498,
-          "triggered": 185,
+          "triggered": 186,
           "counts": {
             "PENDING": 41,
             "TP": 58,
@@ -21888,7 +21985,7 @@
           "avgR": 0.0807667050663967,
           "totalR": 13.00343951568987,
           "maxDrawdownR": 29.995271237132144,
-          "avgMinutesToEntry": 744.5778631531551,
+          "avgMinutesToEntry": 742.6331831541238,
           "avgMinutesToResult": 4335.1649356107655
         },
         "byTicker": {
@@ -23084,7 +23181,7 @@
           },
           "PEPE": {
             "published": 15,
-            "triggered": 5,
+            "triggered": 6,
             "counts": {
               "PENDING": 1,
               "TP": 2,
@@ -23104,7 +23201,7 @@
             "avgR": 0.20000000000000046,
             "totalR": 1.0000000000000022,
             "maxDrawdownR": 2,
-            "avgMinutesToEntry": 139.40175,
+            "avgMinutesToEntry": 179.97935555555554,
             "avgMinutesToResult": 2998.60175
           },
           "PUMP": {
@@ -23737,7 +23834,7 @@
           },
           "SHORT": {
             "published": 321,
-            "triggered": 91,
+            "triggered": 92,
             "counts": {
               "PENDING": 33,
               "TP": 44,
@@ -23757,7 +23854,7 @@
             "avgR": 0.808251404920111,
             "totalR": 59.00235255916811,
             "maxDrawdownR": 10,
-            "avgMinutesToEntry": 788.6653368131869,
+            "avgMinutesToEntry": 784.2544894927536,
             "avgMinutesToResult": 5694.7566465753425
           }
         },
@@ -24904,7 +25001,7 @@
           },
           "sweep Monday High lalu reclaim": {
             "published": 42,
-            "triggered": 16,
+            "triggered": 17,
             "counts": {
               "PENDING": 3,
               "TP": 7,
@@ -24924,7 +25021,7 @@
             "avgR": 0.5001465224340779,
             "totalR": 7.0020513140770895,
             "maxDrawdownR": 3,
-            "avgMinutesToEntry": 281.0755322916667,
+            "avgMinutesToEntry": 287.0632882352942,
             "avgMinutesToResult": 4342.913548809524
           },
           "sweep Monday Low lalu reclaim, Fib 0.75 tren naik, searah tren": {
@@ -27138,29 +27235,29 @@
       },
       "crypto": {
         "summary": {
-          "published": 518,
+          "published": 531,
           "triggered": 269,
           "counts": {
-            "PENDING": 53,
+            "PENDING": 63,
             "TP": 38,
-            "SL": 195,
+            "SL": 196,
             "CANCELLED": 0,
-            "EXPIRED": 224,
+            "EXPIRED": 226,
             "INVALID": 8,
             "AMBIGUOUS": 0
           },
-          "resolved": 233,
-          "winRate": 0.1630901287553648,
+          "resolved": 234,
+          "winRate": 0.1623931623931624,
           "winRateCI95": [
-            0.12118633553166608,
-            0.21592336141346513
+            0.12065774875846766,
+            0.21503457756291597
           ],
-          "expectancyR": -0.3748051061158078,
-          "avgR": -0.3748051061158078,
-          "totalR": -87.32958972498322,
+          "expectancyR": -0.37747687916659495,
+          "avgR": -0.37747687916659495,
+          "totalR": -88.32958972498322,
           "maxDrawdownR": 99.38295272697353,
           "avgMinutesToEntry": 770.4660293060709,
-          "avgMinutesToResult": 2434.3211871959925
+          "avgMinutesToResult": 2427.3759339743574
         },
         "byTicker": {
           "(tidak tersedia)": {
@@ -27621,14 +27718,14 @@
             "avgMinutesToResult": null
           },
           "CRCLB": {
-            "published": 13,
+            "published": 14,
             "triggered": 8,
             "counts": {
               "PENDING": 1,
               "TP": 1,
               "SL": 7,
               "CANCELLED": 0,
-              "EXPIRED": 4,
+              "EXPIRED": 5,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -27644,6 +27741,28 @@
             "maxDrawdownR": 6,
             "avgMinutesToEntry": 800.9541083333332,
             "avgMinutesToResult": 1445.4541083333334
+          },
+          "CYBER": {
+            "published": 1,
+            "triggered": 0,
+            "counts": {
+              "PENDING": 1,
+              "TP": 0,
+              "SL": 0,
+              "CANCELLED": 0,
+              "EXPIRED": 0,
+              "INVALID": 0,
+              "AMBIGUOUS": 0
+            },
+            "resolved": 0,
+            "winRate": null,
+            "winRateCI95": null,
+            "expectancyR": null,
+            "avgR": null,
+            "totalR": 0,
+            "maxDrawdownR": 0,
+            "avgMinutesToEntry": null,
+            "avgMinutesToResult": null
           },
           "DODO": {
             "published": 2,
@@ -28053,10 +28172,10 @@
             "avgMinutesToResult": null
           },
           "INJ": {
-            "published": 12,
+            "published": 13,
             "triggered": 1,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 0,
               "SL": 1,
               "CANCELLED": 0,
@@ -28172,10 +28291,10 @@
             "avgMinutesToResult": 11499.716266666666
           },
           "KORUB": {
-            "published": 2,
+            "published": 3,
             "triggered": 1,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 0,
               "SL": 1,
               "CANCELLED": 0,
@@ -28366,10 +28485,10 @@
             "avgMinutesToResult": 1095.5485366666667
           },
           "MUB": {
-            "published": 5,
+            "published": 6,
             "triggered": 4,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 0,
               "SL": 4,
               "CANCELLED": 0,
@@ -28679,10 +28798,10 @@
             "avgMinutesToResult": null
           },
           "SKHYB": {
-            "published": 6,
+            "published": 7,
             "triggered": 3,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 0,
               "SL": 2,
               "CANCELLED": 0,
@@ -28704,10 +28823,10 @@
             "avgMinutesToResult": 503.9880833333333
           },
           "SNDKB": {
-            "published": 10,
+            "published": 11,
             "triggered": 6,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 0,
               "SL": 6,
               "CANCELLED": 0,
@@ -28727,6 +28846,28 @@
             "maxDrawdownR": 6,
             "avgMinutesToEntry": 398.5323888888888,
             "avgMinutesToResult": 667.1990555555557
+          },
+          "SNXXB": {
+            "published": 1,
+            "triggered": 0,
+            "counts": {
+              "PENDING": 1,
+              "TP": 0,
+              "SL": 0,
+              "CANCELLED": 0,
+              "EXPIRED": 0,
+              "INVALID": 0,
+              "AMBIGUOUS": 0
+            },
+            "resolved": 0,
+            "winRate": null,
+            "winRateCI95": null,
+            "expectancyR": null,
+            "avgR": null,
+            "totalR": 0,
+            "maxDrawdownR": 0,
+            "avgMinutesToEntry": null,
+            "avgMinutesToResult": null
           },
           "SOL": {
             "published": 15,
@@ -28776,10 +28917,10 @@
             "avgMinutesToResult": null
           },
           "SOXLB": {
-            "published": 9,
+            "published": 10,
             "triggered": 7,
             "counts": {
-              "PENDING": 0,
+              "PENDING": 1,
               "TP": 1,
               "SL": 6,
               "CANCELLED": 0,
@@ -28870,10 +29011,10 @@
             "avgMinutesToResult": null
           },
           "SUI": {
-            "published": 12,
+            "published": 13,
             "triggered": 7,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 2,
               "SL": 4,
               "CANCELLED": 0,
@@ -28945,11 +29086,11 @@
             "published": 3,
             "triggered": 1,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 0,
               "TP": 0,
               "SL": 1,
               "CANCELLED": 0,
-              "EXPIRED": 1,
+              "EXPIRED": 2,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
@@ -28967,10 +29108,10 @@
             "avgMinutesToResult": 8640.885916666666
           },
           "TRUMP": {
-            "published": 4,
+            "published": 5,
             "triggered": 2,
             "counts": {
-              "PENDING": 1,
+              "PENDING": 2,
               "TP": 1,
               "SL": 0,
               "CANCELLED": 0,
@@ -29205,29 +29346,29 @@
             "avgMinutesToResult": 2071.0319
           },
           "XRP": {
-            "published": 12,
+            "published": 13,
             "triggered": 9,
             "counts": {
               "PENDING": 2,
               "TP": 3,
-              "SL": 5,
+              "SL": 6,
               "CANCELLED": 0,
               "EXPIRED": 2,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
-            "resolved": 8,
-            "winRate": 0.375,
+            "resolved": 9,
+            "winRate": 0.3333333333333333,
             "winRateCI95": [
-              0.13684175946152105,
-              0.6942621454161981
+              0.12058159868274293,
+              0.6458026525009102
             ],
-            "expectancyR": 0.4630354038248807,
-            "avgR": 0.4630354038248807,
-            "totalR": 3.7042832305990454,
+            "expectancyR": 0.300475914511005,
+            "avgR": 0.300475914511005,
+            "totalR": 2.7042832305990454,
             "maxDrawdownR": 2,
             "avgMinutesToEntry": 886.4848407407408,
-            "avgMinutesToResult": 4497.403954166667
+            "avgMinutesToResult": 4087.595951851852
           },
           "ZAMA": {
             "published": 3,
@@ -29252,10 +29393,10 @@
             "avgMinutesToResult": null
           },
           "ZEC": {
-            "published": 7,
+            "published": 8,
             "triggered": 3,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 3,
               "TP": 0,
               "SL": 1,
               "CANCELLED": 0,
@@ -29304,39 +29445,39 @@
         },
         "byDirection": {
           "LONG": {
-            "published": 257,
+            "published": 266,
             "triggered": 175,
             "counts": {
-              "PENDING": 28,
+              "PENDING": 36,
               "TP": 6,
-              "SL": 148,
+              "SL": 149,
               "CANCELLED": 0,
               "EXPIRED": 71,
               "INVALID": 4,
               "AMBIGUOUS": 0
             },
-            "resolved": 154,
-            "winRate": 0.03896103896103896,
+            "resolved": 155,
+            "winRate": 0.03870967741935484,
             "winRateCI95": [
-              0.017976199308647814,
-              0.08238770982557282
+              0.017859441234565628,
+              0.08187261888066868
             ],
-            "expectancyR": -0.8324471448602309,
-            "avgR": -0.8324471448602309,
-            "totalR": -128.19686030847555,
-            "maxDrawdownR": 128.19686030847555,
+            "expectancyR": -0.833528131022423,
+            "avgR": -0.833528131022423,
+            "totalR": -129.19686030847555,
+            "maxDrawdownR": 129.19686030847555,
             "avgMinutesToEntry": 870.8054280952374,
-            "avgMinutesToResult": 2549.4397566017324
+            "avgMinutesToResult": 2538.211964193549
           },
           "SHORT": {
-            "published": 261,
+            "published": 265,
             "triggered": 94,
             "counts": {
-              "PENDING": 25,
+              "PENDING": 27,
               "TP": 32,
               "SL": 47,
               "CANCELLED": 0,
-              "EXPIRED": 153,
+              "EXPIRED": 155,
               "INVALID": 4,
               "AMBIGUOUS": 0
             },
@@ -29356,10 +29497,10 @@
         },
         "byReason": {
           "Breakdown, retest gagal (failed reclaim)": {
-            "published": 27,
+            "published": 29,
             "triggered": 23,
             "counts": {
-              "PENDING": 4,
+              "PENDING": 6,
               "TP": 6,
               "SL": 14,
               "CANCELLED": 0,
@@ -29406,10 +29547,10 @@
             "avgMinutesToResult": 335.0337
           },
           "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah": {
-            "published": 26,
+            "published": 28,
             "triggered": 9,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 4,
               "TP": 2,
               "SL": 5,
               "CANCELLED": 0,
@@ -29431,10 +29572,10 @@
             "avgMinutesToResult": 3640.42495952381
           },
           "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah": {
-            "published": 99,
+            "published": 100,
             "triggered": 81,
             "counts": {
-              "PENDING": 10,
+              "PENDING": 11,
               "TP": 2,
               "SL": 72,
               "CANCELLED": 0,
@@ -29459,11 +29600,11 @@
             "published": 169,
             "triggered": 49,
             "counts": {
-              "PENDING": 14,
+              "PENDING": 12,
               "TP": 22,
               "SL": 21,
               "CANCELLED": 0,
-              "EXPIRED": 111,
+              "EXPIRED": 113,
               "INVALID": 1,
               "AMBIGUOUS": 0
             },
@@ -29481,10 +29622,10 @@
             "avgMinutesToResult": 1408.867549612403
           },
           "Sweep Monday Low, lalu reclaim": {
-            "published": 89,
+            "published": 91,
             "triggered": 49,
             "counts": {
-              "PENDING": 9,
+              "PENDING": 11,
               "TP": 2,
               "SL": 39,
               "CANCELLED": 0,
@@ -29531,29 +29672,29 @@
             "avgMinutesToResult": 74.88591666666666
           },
           "Sweep di bawah range, lalu reclaim": {
-            "published": 18,
+            "published": 24,
             "triggered": 12,
             "counts": {
-              "PENDING": 2,
+              "PENDING": 7,
               "TP": 0,
-              "SL": 11,
+              "SL": 12,
               "CANCELLED": 0,
               "EXPIRED": 5,
               "INVALID": 0,
               "AMBIGUOUS": 0
             },
-            "resolved": 11,
+            "resolved": 12,
             "winRate": 0,
             "winRateCI95": [
-              2.7755575615628914e-17,
-              0.2588400172488141
+              0,
+              0.2425007574992425
             ],
             "expectancyR": -1,
             "avgR": -1,
-            "totalR": -11,
-            "maxDrawdownR": 11,
+            "totalR": -12,
+            "maxDrawdownR": 12,
             "avgMinutesToEntry": 530.9219361111111,
-            "avgMinutesToResult": 2677.539209090909
+            "avgMinutesToResult": 2521.838602777778
           },
           "Three Tap: 2 sentuhan, lalu sweep dan reclaim": {
             "published": 26,
@@ -29750,10 +29891,10 @@
           },
           {
             "period": "2026-11-06",
-            "resolved": 6,
+            "resolved": 7,
             "tp": 2,
-            "sl": 4,
-            "totalR": -0.029733959311422975
+            "sl": 5,
+            "totalR": -1.029733959311423
           }
         ],
         "weekly": [
@@ -29773,10 +29914,10 @@
           },
           {
             "period": "2026-W45",
-            "resolved": 104,
+            "resolved": 105,
             "tp": 20,
-            "sl": 84,
-            "totalR": -19.59506451272822
+            "sl": 85,
+            "totalR": -20.59506451272822
           }
         ],
         "monthly": [
@@ -29789,10 +29930,10 @@
           },
           {
             "period": "2026-11",
-            "resolved": 109,
+            "resolved": 110,
             "tp": 21,
-            "sl": 88,
-            "totalR": -22.309350227013937
+            "sl": 89,
+            "totalR": -23.309350227013937
           }
         ],
         "curve": [
@@ -30727,13 +30868,17 @@
           [
             "2026-11-05T23:17:00.000Z",
             -87.33
+          ],
+          [
+            "2026-11-06T14:32:00.000Z",
+            -88.33
           ]
         ]
       },
       "tn": {
         "summary": {
           "published": 279,
-          "triggered": 85,
+          "triggered": 86,
           "counts": {
             "PENDING": 39,
             "TP": 27,
@@ -30753,7 +30898,7 @@
           "avgR": 0.2857314555815605,
           "totalR": 18.00108170163831,
           "maxDrawdownR": 6,
-          "avgMinutesToEntry": 925.996409607843,
+          "avgMinutesToEntry": 919.6809558139533,
           "avgMinutesToResult": 2956.929137037037
         },
         "byTicker": {
@@ -31677,7 +31822,7 @@
           },
           "PEPE": {
             "published": 10,
-            "triggered": 3,
+            "triggered": 4,
             "counts": {
               "PENDING": 1,
               "TP": 1,
@@ -31697,7 +31842,7 @@
             "avgR": 7.401486830834377e-16,
             "totalR": 2.220446049250313e-15,
             "maxDrawdownR": 1,
-            "avgMinutesToEntry": 200.24642777777777,
+            "avgMinutesToEntry": 245.90166666666667,
             "avgMinutesToResult": 2201.2464277777776
           },
           "PUMP": {
@@ -32192,7 +32337,7 @@
           },
           "SHORT": {
             "published": 215,
-            "triggered": 53,
+            "triggered": 54,
             "counts": {
               "PENDING": 31,
               "TP": 20,
@@ -32212,7 +32357,7 @@
             "avgR": 0.6216508568010358,
             "totalR": 23.001081701638324,
             "maxDrawdownR": 10,
-            "avgMinutesToEntry": 1079.5741468553458,
+            "avgMinutesToEntry": 1066.6721697530863,
             "avgMinutesToResult": 3291.981356756756
           }
         },
@@ -33021,7 +33166,7 @@
           },
           "sweep Monday High lalu reclaim": {
             "published": 27,
-            "triggered": 9,
+            "triggered": 10,
             "counts": {
               "PENDING": 3,
               "TP": 2,
@@ -33041,7 +33186,7 @@
             "avgR": -0.1424642603149263,
             "totalR": -0.9972498222044841,
             "maxDrawdownR": 3,
-            "avgMinutesToEntry": 409.6340796296297,
+            "avgMinutesToEntry": 406.95741000000004,
             "avgMinutesToResult": 2000.8982690476191
           },
           "sweep Monday Low lalu reclaim, OBV divergence, searah tren": {
@@ -33675,7 +33820,7 @@
         "deepseek": 2,
         "grokberyl": 0,
         "grok": 69,
-        "crypto": 313,
+        "crypto": 314,
         "tn": 137,
         "tnv2": 0
       },
@@ -33693,10 +33838,10 @@
         {
           "a": "gemini",
           "b": "crypto",
-          "diff": 0.2212870683573629,
+          "diff": 0.22311723074455786,
           "ci": [
-            -0.32161054023101987,
-            0.789355303877658
+            -0.30849957530093214,
+            0.7989009432972022
           ],
           "winner": null
         },
@@ -33705,18 +33850,18 @@
           "b": "tn",
           "diff": -0.34275393365724616,
           "ci": [
-            -0.9290640433801394,
-            0.28293564042264485
+            -0.916129048887566,
+            0.2699012076191262
           ],
           "winner": null
         },
         {
           "a": "grok",
           "b": "crypto",
-          "diff": 0.435587151978797,
+          "diff": 0.43741731436599196,
           "ci": [
-            -0.06038169777014385,
-            0.9309219441462153
+            -0.06952585340851813,
+            0.9340132190898165
           ],
           "winner": null
         },
@@ -33725,18 +33870,18 @@
           "b": "tn",
           "diff": -0.12845385003581206,
           "ci": [
-            -0.6800210820436913,
-            0.43583520770679063
+            -0.6772383157401922,
+            0.4258387261125093
           ],
           "winner": null
         },
         {
           "a": "crypto",
           "b": "tn",
-          "diff": -0.564041002014609,
+          "diff": -0.565871164401804,
           "ci": [
-            -0.9836745708431718,
-            -0.14821282141523573
+            -0.9520163994943052,
+            -0.15056096468520777
           ],
           "winner": "tn"
         }
@@ -33760,7 +33905,7 @@
         "deepseek": 2,
         "grokberyl": 0,
         "grok": 128,
-        "crypto": 708,
+        "crypto": 709,
         "tn": 161,
         "tnv2": 0
       },
@@ -33778,10 +33923,10 @@
         {
           "a": "gemini",
           "b": "crypto",
-          "diff": 0.3058620390884302,
+          "diff": 0.3066708894518002,
           "ci": [
-            -0.19118140705070785,
-            0.8199726462951018
+            -0.18301026118658054,
+            0.8144296624687389
           ],
           "winner": null
         },
@@ -33790,18 +33935,18 @@
           "b": "tn",
           "diff": -0.2014297583486031,
           "ci": [
-            -0.7560515102741664,
-            0.3614457809983945
+            -0.7601467840407392,
+            0.3842779770513065
           ],
           "winner": null
         },
         {
           "a": "grok",
           "b": "crypto",
-          "diff": 0.37376226993803613,
+          "diff": 0.37457112030140616,
           "ci": [
-            0.005030631957525122,
-            0.7388667235033235
+            0.012286246516894361,
+            0.7360489383277709
           ],
           "winner": "grok"
         },
@@ -33810,18 +33955,18 @@
           "b": "tn",
           "diff": -0.13352952749899716,
           "ci": [
-            -0.5753661528690915,
-            0.3102146392147195
+            -0.555821698097968,
+            0.3125664212737005
           ],
           "winner": null
         },
         {
           "a": "crypto",
           "b": "tn",
-          "diff": -0.5072917974370332,
+          "diff": -0.5081006478004033,
           "ci": [
-            -0.8753899042371511,
-            -0.1527374388224415
+            -0.862755256705982,
+            -0.15682784567813207
           ],
           "winner": "tn"
         }
@@ -33844,7 +33989,7 @@
         "deepseek": 0,
         "grokberyl": 0,
         "grok": 69,
-        "crypto": 233,
+        "crypto": 234,
         "tn": 63,
         "tnv2": 0
       },
@@ -33852,10 +33997,10 @@
         {
           "a": "grok",
           "b": "crypto",
-          "diff": 0.3850632476738229,
+          "diff": 0.3877350207246101,
           "ci": [
-            -0.07662147851078277,
-            0.8520577071624862
+            -0.08908323426109244,
+            0.8678842784206591
           ],
           "winner": null
         },
@@ -33864,18 +34009,18 @@
           "b": "tn",
           "diff": -0.2754733140235456,
           "ci": [
-            -0.877184769078761,
-            0.3097856253418866
+            -0.857557852811667,
+            0.31453914422674795
           ],
           "winner": null
         },
         {
           "a": "crypto",
           "b": "tn",
-          "diff": -0.6605365616973684,
+          "diff": -0.6632083347481557,
           "ci": [
-            -1.1742804367047075,
-            -0.16274440470702298
+            -1.1749188092636347,
+            -0.15557558377669348
           ],
           "winner": "tn"
         }
@@ -33884,34 +34029,6 @@
     }
   },
   "consensus": [
-    {
-      "symbol": "BTCUSDT",
-      "engines": 3,
-      "long": 2,
-      "short": 1,
-      "agreement": 0.6666666666666666,
-      "conflict": true,
-      "detail": [
-        {
-          "engine": "grok",
-          "direction": "LONG",
-          "entry": 76867.975,
-          "result": "EXPIRED"
-        },
-        {
-          "engine": "crypto",
-          "direction": "LONG",
-          "entry": 75736.4,
-          "result": "PENDING"
-        },
-        {
-          "engine": "tn",
-          "direction": "SHORT",
-          "entry": 78878,
-          "result": "PENDING"
-        }
-      ]
-    },
     {
       "symbol": "ETHUSDT",
       "engines": 3,
@@ -34013,97 +34130,13 @@
         {
           "engine": "crypto",
           "direction": "SHORT",
-          "entry": 1.274,
+          "entry": 1.2,
           "result": "PENDING"
         },
         {
           "engine": "tn",
           "direction": "SHORT",
           "entry": 1.2646,
-          "result": "PENDING"
-        }
-      ]
-    },
-    {
-      "symbol": "ADAUSDT",
-      "engines": 3,
-      "long": 0,
-      "short": 3,
-      "agreement": 1,
-      "conflict": false,
-      "detail": [
-        {
-          "engine": "grok",
-          "direction": "SHORT",
-          "entry": 0.19424999999999998,
-          "result": "TP"
-        },
-        {
-          "engine": "crypto",
-          "direction": "SHORT",
-          "entry": 0.195,
-          "result": "EXPIRED"
-        },
-        {
-          "engine": "tn",
-          "direction": "SHORT",
-          "entry": 0.1949,
-          "result": "PENDING"
-        }
-      ]
-    },
-    {
-      "symbol": "DOGEUSDT",
-      "engines": 3,
-      "long": 0,
-      "short": 3,
-      "agreement": 1,
-      "conflict": false,
-      "detail": [
-        {
-          "engine": "grok",
-          "direction": "SHORT",
-          "entry": 0.07565,
-          "result": "INVALID"
-        },
-        {
-          "engine": "crypto",
-          "direction": "SHORT",
-          "entry": 0.0763,
-          "result": "EXPIRED"
-        },
-        {
-          "engine": "tn",
-          "direction": "SHORT",
-          "entry": 0.07634,
-          "result": "EXPIRED"
-        }
-      ]
-    },
-    {
-      "symbol": "AVAXUSDT",
-      "engines": 3,
-      "long": 1,
-      "short": 2,
-      "agreement": 0.6666666666666666,
-      "conflict": true,
-      "detail": [
-        {
-          "engine": "grok",
-          "direction": "LONG",
-          "entry": 8.311699999999998,
-          "result": "PENDING"
-        },
-        {
-          "engine": "crypto",
-          "direction": "SHORT",
-          "entry": 8.74,
-          "result": "PENDING"
-        },
-        {
-          "engine": "tn",
-          "direction": "SHORT",
-          "entry": 8.74,
           "result": "PENDING"
         }
       ]
@@ -34137,7 +34170,91 @@
       ]
     },
     {
+      "symbol": "DOGEUSDT",
+      "engines": 3,
+      "long": 0,
+      "short": 3,
+      "agreement": 1,
+      "conflict": false,
+      "detail": [
+        {
+          "engine": "crypto",
+          "direction": "SHORT",
+          "entry": 0.0763,
+          "result": "PENDING"
+        },
+        {
+          "engine": "grok",
+          "direction": "SHORT",
+          "entry": 0.07565,
+          "result": "INVALID"
+        },
+        {
+          "engine": "tn",
+          "direction": "SHORT",
+          "entry": 0.07634,
+          "result": "EXPIRED"
+        }
+      ]
+    },
+    {
+      "symbol": "ADAUSDT",
+      "engines": 3,
+      "long": 0,
+      "short": 3,
+      "agreement": 1,
+      "conflict": false,
+      "detail": [
+        {
+          "engine": "crypto",
+          "direction": "SHORT",
+          "entry": 0.195,
+          "result": "PENDING"
+        },
+        {
+          "engine": "grok",
+          "direction": "SHORT",
+          "entry": 0.19424999999999998,
+          "result": "TP"
+        },
+        {
+          "engine": "tn",
+          "direction": "SHORT",
+          "entry": 0.1949,
+          "result": "PENDING"
+        }
+      ]
+    },
+    {
       "symbol": "TAOUSDT",
+      "engines": 3,
+      "long": 1,
+      "short": 2,
+      "agreement": 0.6666666666666666,
+      "conflict": true,
+      "detail": [
+        {
+          "engine": "crypto",
+          "direction": "SHORT",
+          "entry": 234.8,
+          "result": "PENDING"
+        },
+        {
+          "engine": "grok",
+          "direction": "LONG",
+          "entry": 222.035,
+          "result": "PENDING"
+        },
+        {
+          "engine": "tn",
+          "direction": "SHORT",
+          "entry": 234.8,
+          "result": "EXPIRED"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAXUSDT",
       "engines": 3,
       "long": 1,
       "short": 2,
@@ -34147,20 +34264,86 @@
         {
           "engine": "grok",
           "direction": "LONG",
-          "entry": 222.035,
-          "result": "SL"
+          "entry": 8.311699999999998,
+          "result": "PENDING"
         },
         {
           "engine": "crypto",
           "direction": "SHORT",
-          "entry": 234.8,
-          "result": "EXPIRED"
+          "entry": 8.74,
+          "result": "PENDING"
         },
         {
           "engine": "tn",
           "direction": "SHORT",
-          "entry": 234.8,
+          "entry": 8.74,
+          "result": "PENDING"
+        }
+      ]
+    },
+    {
+      "symbol": "MSTRBUSDT",
+      "engines": 2,
+      "long": 1,
+      "short": 1,
+      "agreement": 0.5,
+      "conflict": true,
+      "detail": [
+        {
+          "engine": "crypto",
+          "direction": "LONG",
+          "entry": 127.8,
+          "result": "PENDING"
+        },
+        {
+          "engine": "tn",
+          "direction": "SHORT",
+          "entry": 137.47,
+          "result": "PENDING"
+        }
+      ]
+    },
+    {
+      "symbol": "ENAUSDT",
+      "engines": 2,
+      "long": 0,
+      "short": 2,
+      "agreement": 1,
+      "conflict": false,
+      "detail": [
+        {
+          "engine": "crypto",
+          "direction": "SHORT",
+          "entry": 0.187,
+          "result": "PENDING"
+        },
+        {
+          "engine": "tn",
+          "direction": "SHORT",
+          "entry": 0.187,
           "result": "EXPIRED"
+        }
+      ]
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "engines": 2,
+      "long": 0,
+      "short": 2,
+      "agreement": 1,
+      "conflict": false,
+      "detail": [
+        {
+          "engine": "crypto",
+          "direction": "SHORT",
+          "entry": 137,
+          "result": "PENDING"
+        },
+        {
+          "engine": "tn",
+          "direction": "SHORT",
+          "entry": 137.02,
+          "result": "PENDING"
         }
       ]
     },
@@ -34211,28 +34394,6 @@
     {
       "symbol": "CRCLBUSDT",
       "engines": 2,
-      "long": 0,
-      "short": 2,
-      "agreement": 1,
-      "conflict": false,
-      "detail": [
-        {
-          "engine": "crypto",
-          "direction": "SHORT",
-          "entry": 75.93,
-          "result": "PENDING"
-        },
-        {
-          "engine": "tn",
-          "direction": "SHORT",
-          "entry": 75.93,
-          "result": "EXPIRED"
-        }
-      ]
-    },
-    {
-      "symbol": "MSTRBUSDT",
-      "engines": 2,
       "long": 1,
       "short": 1,
       "agreement": 0.5,
@@ -34241,19 +34402,41 @@
         {
           "engine": "crypto",
           "direction": "LONG",
-          "entry": 127.8,
+          "entry": 66.08,
           "result": "PENDING"
         },
         {
           "engine": "tn",
           "direction": "SHORT",
-          "entry": 137.47,
-          "result": "PENDING"
+          "entry": 75.93,
+          "result": "EXPIRED"
         }
       ]
     },
     {
-      "symbol": "ENAUSDT",
+      "symbol": "ZECUSDT",
+      "engines": 2,
+      "long": 1,
+      "short": 1,
+      "agreement": 0.5,
+      "conflict": true,
+      "detail": [
+        {
+          "engine": "crypto",
+          "direction": "SHORT",
+          "entry": 1358.3,
+          "result": "PENDING"
+        },
+        {
+          "engine": "tn",
+          "direction": "LONG",
+          "entry": 1126.3,
+          "result": "EXPIRED"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQBUSDT",
       "engines": 2,
       "long": 0,
       "short": 2,
@@ -34263,35 +34446,13 @@
         {
           "engine": "crypto",
           "direction": "SHORT",
-          "entry": 0.187,
-          "result": "EXPIRED"
-        },
-        {
-          "engine": "tn",
-          "direction": "SHORT",
-          "entry": 0.187,
-          "result": "EXPIRED"
-        }
-      ]
-    },
-    {
-      "symbol": "ZECUSDT",
-      "engines": 2,
-      "long": 2,
-      "short": 0,
-      "agreement": 1,
-      "conflict": false,
-      "detail": [
-        {
-          "engine": "crypto",
-          "direction": "LONG",
-          "entry": 1126.3,
+          "entry": 700.4,
           "result": "PENDING"
         },
         {
           "engine": "tn",
-          "direction": "LONG",
-          "entry": 1126.3,
+          "direction": "SHORT",
+          "entry": 700.37,
           "result": "EXPIRED"
         }
       ]
@@ -34308,13 +34469,35 @@
           "engine": "crypto",
           "direction": "SHORT",
           "entry": 0.393,
-          "result": "EXPIRED"
+          "result": "PENDING"
         },
         {
           "engine": "tn",
           "direction": "SHORT",
           "entry": 0.3933,
           "result": "EXPIRED"
+        }
+      ]
+    },
+    {
+      "symbol": "BTCUSDT",
+      "engines": 2,
+      "long": 1,
+      "short": 1,
+      "agreement": 0.5,
+      "conflict": true,
+      "detail": [
+        {
+          "engine": "crypto",
+          "direction": "LONG",
+          "entry": 75736.4,
+          "result": "PENDING"
+        },
+        {
+          "engine": "tn",
+          "direction": "SHORT",
+          "entry": 78878,
+          "result": "PENDING"
         }
       ]
     },
@@ -34363,28 +34546,6 @@
       ]
     },
     {
-      "symbol": "PEPEUSDT",
-      "engines": 2,
-      "long": 1,
-      "short": 1,
-      "agreement": 0.5,
-      "conflict": true,
-      "detail": [
-        {
-          "engine": "crypto",
-          "direction": "LONG",
-          "entry": 0.00000482,
-          "result": "PENDING"
-        },
-        {
-          "engine": "tn",
-          "direction": "SHORT",
-          "entry": 0.000005,
-          "result": "PENDING"
-        }
-      ]
-    },
-    {
       "symbol": "LTCUSDT",
       "engines": 2,
       "long": 0,
@@ -34407,28 +34568,6 @@
       ]
     },
     {
-      "symbol": "AAVEUSDT",
-      "engines": 2,
-      "long": 0,
-      "short": 2,
-      "agreement": 1,
-      "conflict": false,
-      "detail": [
-        {
-          "engine": "crypto",
-          "direction": "SHORT",
-          "entry": 137,
-          "result": "PENDING"
-        },
-        {
-          "engine": "tn",
-          "direction": "SHORT",
-          "entry": 137.02,
-          "result": "PENDING"
-        }
-      ]
-    },
-    {
       "symbol": "SUIUSDT",
       "engines": 2,
       "long": 1,
@@ -34439,7 +34578,7 @@
         {
           "engine": "crypto",
           "direction": "LONG",
-          "entry": 0.854,
+          "entry": 0.864,
           "result": "PENDING"
         },
         {
@@ -34451,24 +34590,24 @@
       ]
     },
     {
-      "symbol": "QQQBUSDT",
+      "symbol": "PEPEUSDT",
       "engines": 2,
-      "long": 0,
-      "short": 2,
-      "agreement": 1,
-      "conflict": false,
+      "long": 1,
+      "short": 1,
+      "agreement": 0.5,
+      "conflict": true,
       "detail": [
         {
           "engine": "crypto",
-          "direction": "SHORT",
-          "entry": 700.4,
+          "direction": "LONG",
+          "entry": 0.00000482,
           "result": "PENDING"
         },
         {
           "engine": "tn",
           "direction": "SHORT",
-          "entry": 700.37,
-          "result": "EXPIRED"
+          "entry": 0.000005,
+          "result": "PENDING"
         }
       ]
     },
@@ -34607,6 +34746,1040 @@
   ],
   "setups": [
     {
+      "id": "crypto-a085f9ba7ae2",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "TRUMP",
+      "direction": "LONG",
+      "entry": 1.151,
+      "entryRange": null,
+      "tp": [
+        1.536
+      ],
+      "sl": 1.091,
+      "rr": 6.42,
+      "reason": "Sweep di bawah range, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-f784f996cb34",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "SOXLB",
+      "direction": "LONG",
+      "entry": 42.11,
+      "entryRange": null,
+      "tp": [
+        75.61
+      ],
+      "sl": 36.968,
+      "rr": 6.51,
+      "reason": "Sweep di bawah range, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-2d9f68433e1d",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "SNXXB",
+      "direction": "LONG",
+      "entry": 3.09,
+      "entryRange": null,
+      "tp": [
+        6.99
+      ],
+      "sl": 2.645,
+      "rr": 8.76,
+      "reason": "Sweep di bawah range, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-8b77f033a86b",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "MUB",
+      "direction": "LONG",
+      "entry": 657.5,
+      "entryRange": null,
+      "tp": [
+        824
+      ],
+      "sl": 628.1,
+      "rr": 5.66,
+      "reason": "Sweep di bawah range, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-f26ee7a180e7",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "KORUB",
+      "direction": "SHORT",
+      "entry": 7.19,
+      "entryRange": null,
+      "tp": [
+        5.475
+      ],
+      "sl": 7.863,
+      "rr": 2.55,
+      "reason": "Breakdown, retest gagal (failed reclaim)",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-ae022fd20cfd",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "SNDKB",
+      "direction": "LONG",
+      "entry": 808,
+      "entryRange": null,
+      "tp": [
+        1117
+      ],
+      "sl": 762,
+      "rr": 6.72,
+      "reason": "Sweep di bawah range, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-96577bfa610d",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "SKHYB",
+      "direction": "LONG",
+      "entry": 122.7,
+      "entryRange": null,
+      "tp": [
+        144.5
+      ],
+      "sl": 117.7,
+      "rr": 4.36,
+      "reason": "Sweep di bawah range, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-7f7ed80c86d6",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "GOOGLB",
+      "direction": "LONG",
+      "entry": 279.2,
+      "entryRange": null,
+      "tp": [
+        310
+      ],
+      "sl": 271.4,
+      "rr": 3.95,
+      "reason": "Sweep Monday Low, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-02a2bc67da5a",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "SUI",
+      "direction": "LONG",
+      "entry": 0.864,
+      "entryRange": null,
+      "tp": [
+        0.942
+      ],
+      "sl": 0.823,
+      "rr": 1.9,
+      "reason": "Sweep Monday Low, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Aktif",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-395a83e41d2f",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "TQQQB",
+      "direction": "SHORT",
+      "entry": 64.45,
+      "entryRange": null,
+      "tp": [
+        61.975
+      ],
+      "sl": 66.869,
+      "rr": 1.02,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-ad910764e403",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "INJ",
+      "direction": "LONG",
+      "entry": 6.889,
+      "entryRange": null,
+      "tp": [
+        8.12
+      ],
+      "sl": 6.631,
+      "rr": 4.77,
+      "reason": "Sweep Monday Low, lalu reclaim",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-c9be0a600ef1",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "WLD",
+      "direction": "SHORT",
+      "entry": 0.393,
+      "entryRange": null,
+      "tp": [
+        0.334
+      ],
+      "sl": 0.406,
+      "rr": 4.54,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-c2314c9edd91",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "QQQB",
+      "direction": "SHORT",
+      "entry": 700.4,
+      "entryRange": null,
+      "tp": [
+        689.3
+      ],
+      "sl": 709.6,
+      "rr": 1.21,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-70ddbe1c26f7",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "XRP",
+      "direction": "SHORT",
+      "entry": 1.2,
+      "entryRange": null,
+      "tp": [
+        1.15
+      ],
+      "sl": 1.231,
+      "rr": 1.61,
+      "reason": "Breakdown, retest gagal (failed reclaim)",
+      "timeframe": "4H",
+      "originalStatus": "Aktif",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-d90fb7a42ac5",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "ENA",
+      "direction": "SHORT",
+      "entry": 0.187,
+      "entryRange": null,
+      "tp": [
+        0.16
+      ],
+      "sl": 0.193,
+      "rr": 4.5,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-f2ddbff595a0",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "NVDAB",
+      "direction": "SHORT",
+      "entry": 210.2,
+      "entryRange": null,
+      "tp": [
+        202.3
+      ],
+      "sl": 214.5,
+      "rr": 1.84,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-e2935dbf3335",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "SPCXB",
+      "direction": "SHORT",
+      "entry": 142.2,
+      "entryRange": null,
+      "tp": [
+        120.5
+      ],
+      "sl": 146.1,
+      "rr": 5.56,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-7609342bfe08",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "UNI",
+      "direction": "SHORT",
+      "entry": 7.351,
+      "entryRange": null,
+      "tp": [
+        7.037
+      ],
+      "sl": 7.89,
+      "rr": 0.58,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-bda79b82c788",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "DOGE",
+      "direction": "SHORT",
+      "entry": 0.0763,
+      "entryRange": null,
+      "tp": [
+        0.0712
+      ],
+      "sl": 0.0788,
+      "rr": 2.04,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-7191c3dc296e",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "AAVE",
+      "direction": "SHORT",
+      "entry": 137,
+      "entryRange": null,
+      "tp": [
+        115.2
+      ],
+      "sl": 140.6,
+      "rr": 6.06,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-b382a7643555",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "TAO",
+      "direction": "SHORT",
+      "entry": 234.8,
+      "entryRange": null,
+      "tp": [
+        214.1
+      ],
+      "sl": 241.6,
+      "rr": 3.04,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-829d76acc04d",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "ADA",
+      "direction": "SHORT",
+      "entry": 0.195,
+      "entryRange": null,
+      "tp": [
+        0.18
+      ],
+      "sl": 0.203,
+      "rr": 1.88,
+      "reason": "Sweep Monday High, lalu kembali masuk",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-fc488a5b43d4",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "PUMP",
+      "direction": "LONG",
+      "entry": 0.00387,
+      "entryRange": null,
+      "tp": [
+        0.00449
+      ],
+      "sl": 0.00372,
+      "rr": 4.13,
+      "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-91045d17ca4b",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "LINK",
+      "direction": "LONG",
+      "entry": 10.62,
+      "entryRange": null,
+      "tp": [
+        11.541
+      ],
+      "sl": 10.353,
+      "rr": 3.45,
+      "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-b061ec505128",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "NEAR",
+      "direction": "LONG",
+      "entry": 3.661,
+      "entryRange": null,
+      "tp": [
+        4.542
+      ],
+      "sl": 3.546,
+      "rr": 7.66,
+      "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+      "timeframe": "4H",
+      "originalStatus": "Menunggu retest",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-a2599b906b73",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "ZEC",
+      "direction": "SHORT",
+      "entry": 1358.3,
+      "entryRange": null,
+      "tp": [
+        1223.6
+      ],
+      "sl": 1403.6,
+      "rr": 2.97,
+      "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah",
+      "timeframe": "4H",
+      "originalStatus": "Aktif",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-afe2038ddc9d",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "BNB",
+      "direction": "LONG",
+      "entry": 686.2,
+      "entryRange": null,
+      "tp": [
+        721.1
+      ],
+      "sl": 678,
+      "rr": 4.26,
+      "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+      "timeframe": "4H",
+      "originalStatus": "Aktif",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-5e7121d70af8",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "SOL",
+      "direction": "LONG",
+      "entry": 89.33,
+      "entryRange": null,
+      "tp": [
+        99.21
+      ],
+      "sl": 87.41,
+      "rr": 5.15,
+      "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+      "timeframe": "4H",
+      "originalStatus": "Aktif",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-6a9da1082a89",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "CRCLB",
+      "direction": "LONG",
+      "entry": 66.08,
+      "entryRange": null,
+      "tp": [
+        78.565
+      ],
+      "sl": 63.745,
+      "rr": 5.35,
+      "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+      "timeframe": "4H",
+      "originalStatus": "Aktif",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "crypto-d34c5f5afd0e",
+      "engine": "crypto",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "CYBER",
+      "direction": "SHORT",
+      "entry": 0.387,
+      "entryRange": null,
+      "tp": [
+        0.286
+      ],
+      "sl": 0.413,
+      "rr": 3.88,
+      "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan beli melemah",
+      "timeframe": "4H",
+      "originalStatus": "Jauh",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [],
+      "isPrimary": true,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "grok-ac8eeebe6ed5",
+      "engine": "grok",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "TAO",
+      "direction": "LONG",
+      "entry": 222.035,
+      "entryRange": [
+        221,
+        223.07
+      ],
+      "tp": [
+        234.8
+      ],
+      "sl": 219.2606,
+      "rr": 4.6,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "timeframe": "4h",
+      "originalStatus": "SETUP",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [
+        "LEVELS_ROUNDED_BY_UI: harga dibulatkan oleh tampilan sumber."
+      ],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
+      "id": "grok-31863e30d97a",
+      "engine": "grok",
+      "analysisWib": "2026-11-06 23:17",
+      "analysisUtc": "2026-11-06T16:17:17.472Z",
+      "ticker": "AVAX",
+      "direction": "LONG",
+      "entry": 8.311699999999998,
+      "entryRange": [
+        8.277,
+        8.3464
+      ],
+      "tp": [
+        8.74
+      ],
+      "sl": 8.2235,
+      "rr": 4.86,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "timeframe": "4h",
+      "originalStatus": "SETUP",
+      "result": "PENDING",
+      "resultUtc": null,
+      "resultWib": null,
+      "resultTimeSource": null,
+      "r": null,
+      "notes": [
+        "Belum ada candle tertutup setelah waktu analisis."
+      ],
+      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "warnings": [
+        "LEVELS_ROUNDED_BY_UI: harga dibulatkan oleh tampilan sumber."
+      ],
+      "isPrimary": false,
+      "analysisTimeSource": "first_seen",
+      "sourceResult": null,
+      "priceDataError": null
+    },
+    {
       "id": "crypto-772705061816",
       "engine": "crypto",
       "analysisWib": "2026-11-06 15:13",
@@ -34629,9 +35802,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "first_seen",
@@ -34661,9 +35834,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Entry terpicu; menunggu TP/SL."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "IN_TRADE",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -34687,15 +35860,15 @@
       "reason": "Sweep Monday High, lalu kembali masuk",
       "timeframe": "4H",
       "originalStatus": "Jauh",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
+      "result": "EXPIRED",
+      "resultUtc": "2026-11-06T08:14:00.000Z",
+      "resultWib": "2026-11-06 15:14",
+      "resultTimeSource": "candle",
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "EXPIRED: TP_REACHED_BEFORE_ENTRY"
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "TP_REACHED_BEFORE_ENTRY",
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "first_seen",
@@ -34719,15 +35892,15 @@
       "reason": "Sweep Monday Low, lalu reclaim",
       "timeframe": "4H",
       "originalStatus": "Jauh",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
+      "result": "EXPIRED",
+      "resultUtc": "2026-11-06T08:14:00.000Z",
+      "resultWib": "2026-11-06 15:14",
+      "resultTimeSource": "candle",
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "EXPIRED: TP_REACHED_BEFORE_ENTRY"
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "TP_REACHED_BEFORE_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -34751,15 +35924,15 @@
       "reason": "Sweep Monday High, lalu kembali masuk",
       "timeframe": "4H",
       "originalStatus": "Jauh",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
+      "result": "EXPIRED",
+      "resultUtc": "2026-11-06T08:14:00.000Z",
+      "resultWib": "2026-11-06 15:14",
+      "resultTimeSource": "candle",
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "EXPIRED: TP_REACHED_BEFORE_ENTRY"
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "TP_REACHED_BEFORE_ENTRY",
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "first_seen",
@@ -34789,9 +35962,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "first_seen",
@@ -34815,15 +35988,15 @@
       "reason": "Sweep Monday High, lalu kembali masuk",
       "timeframe": "4H",
       "originalStatus": "Jauh",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
+      "result": "EXPIRED",
+      "resultUtc": "2026-11-06T08:14:00.000Z",
+      "resultWib": "2026-11-06 15:14",
+      "resultTimeSource": "candle",
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "EXPIRED: TP_REACHED_BEFORE_ENTRY"
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "TP_REACHED_BEFORE_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -34847,15 +36020,15 @@
       "reason": "Sweep Monday High, lalu kembali masuk",
       "timeframe": "4H",
       "originalStatus": "Jauh",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
+      "result": "EXPIRED",
+      "resultUtc": "2026-11-06T08:14:00.000Z",
+      "resultWib": "2026-11-06 15:14",
+      "resultTimeSource": "candle",
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "EXPIRED: TP_REACHED_BEFORE_ENTRY"
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "TP_REACHED_BEFORE_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -34879,15 +36052,15 @@
       "reason": "Sweep Monday High, lalu kembali masuk",
       "timeframe": "4H",
       "originalStatus": "Jauh",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
+      "result": "EXPIRED",
+      "resultUtc": "2026-11-06T08:14:00.000Z",
+      "resultWib": "2026-11-06 15:14",
+      "resultTimeSource": "candle",
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "EXPIRED: TP_REACHED_BEFORE_ENTRY"
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "TP_REACHED_BEFORE_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -34911,15 +36084,15 @@
       "reason": "Sweep Monday Low, lalu reclaim",
       "timeframe": "4H",
       "originalStatus": "Jauh",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
+      "result": "EXPIRED",
+      "resultUtc": "2026-11-06T08:14:00.000Z",
+      "resultWib": "2026-11-06 15:14",
+      "resultTimeSource": "candle",
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "EXPIRED: TP_REACHED_BEFORE_ENTRY"
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "TP_REACHED_BEFORE_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -34949,9 +36122,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "first_seen",
@@ -34981,9 +36154,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "first_seen",
@@ -35013,9 +36186,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -35045,9 +36218,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -35071,15 +36244,15 @@
       "reason": "Sweep Monday High, lalu kembali masuk",
       "timeframe": "4H",
       "originalStatus": "Menunggu retest",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
+      "result": "EXPIRED",
+      "resultUtc": "2026-11-06T08:14:00.000Z",
+      "resultWib": "2026-11-06 15:14",
+      "resultTimeSource": "candle",
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "EXPIRED: TP_REACHED_BEFORE_ENTRY"
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "TP_REACHED_BEFORE_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -35109,9 +36282,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -35141,9 +36314,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -35173,9 +36346,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -35205,9 +36378,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": false,
       "analysisTimeSource": "first_seen",
@@ -35237,9 +36410,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Belum ada candle tertutup setelah waktu analisis."
+        "Menunggu entry tersentuh."
       ],
-      "reasonCode": "NO_CLOSED_CANDLES_YET",
+      "reasonCode": "WAITING_ENTRY",
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "first_seen",
@@ -35301,9 +36474,9 @@
       "resultTimeSource": null,
       "r": null,
       "notes": [
-        "Menunggu entry tersentuh."
+        "Entry terpicu; menunggu TP/SL."
       ],
-      "reasonCode": "WAITING_ENTRY",
+      "reasonCode": "IN_TRADE",
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "source",
@@ -36287,15 +37460,16 @@
       "reason": "Sweep di bawah range, lalu reclaim",
       "timeframe": "4H",
       "originalStatus": "Menunggu retest",
-      "result": "PENDING",
-      "resultUtc": null,
-      "resultWib": null,
-      "resultTimeSource": null,
-      "r": null,
+      "result": "SL",
+      "resultUtc": "2026-11-06T14:32:00.000Z",
+      "resultWib": "2026-11-06 21:32",
+      "resultTimeSource": "candle",
+      "r": -1,
       "notes": [
-        "Entry terpicu; menunggu TP/SL."
+        "SL tersentuh setelah entry terpicu; waktu dan harga diverifikasi menggunakan data candle.",
+        "Waktu = awal candle 1m tempat level pertama kali tersentuh. Harga eksekusi teoretis = level TP/SL; tanpa fee/slippage."
       ],
-      "reasonCode": "IN_TRADE",
+      "reasonCode": null,
       "warnings": [],
       "isPrimary": true,
       "analysisTimeSource": "first_seen",
@@ -123431,6 +124605,80 @@
     "unverified": [],
     "withWarnings": [
       {
+        "id": "grok-ac8eeebe6ed5",
+        "engine": "grok",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "TAO",
+        "direction": "LONG",
+        "entry": 222.035,
+        "entryRange": [
+          221,
+          223.07
+        ],
+        "tp": [
+          234.8
+        ],
+        "sl": 219.2606,
+        "rr": 4.6,
+        "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+        "timeframe": "4h",
+        "originalStatus": "SETUP",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [
+          "LEVELS_ROUNDED_BY_UI: harga dibulatkan oleh tampilan sumber."
+        ],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "grok-31863e30d97a",
+        "engine": "grok",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "AVAX",
+        "direction": "LONG",
+        "entry": 8.311699999999998,
+        "entryRange": [
+          8.277,
+          8.3464
+        ],
+        "tp": [
+          8.74
+        ],
+        "sl": 8.2235,
+        "rr": 4.86,
+        "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+        "timeframe": "4h",
+        "originalStatus": "SETUP",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [
+          "LEVELS_ROUNDED_BY_UI: harga dibulatkan oleh tampilan sumber."
+        ],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
         "id": "grok-5f18dba3a787",
         "engine": "grok",
         "analysisWib": "2026-11-06 08:02",
@@ -136243,6 +137491,624 @@
     ],
     "nearDuplicates": [
       {
+        "id": "crypto-7f7ed80c86d6",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "GOOGLB",
+        "direction": "LONG",
+        "entry": 279.2,
+        "entryRange": null,
+        "tp": [
+          310
+        ],
+        "sl": 271.4,
+        "rr": 3.95,
+        "reason": "Sweep Monday Low, lalu reclaim",
+        "timeframe": "4H",
+        "originalStatus": "Menunggu retest",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-395a83e41d2f",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "TQQQB",
+        "direction": "SHORT",
+        "entry": 64.45,
+        "entryRange": null,
+        "tp": [
+          61.975
+        ],
+        "sl": 66.869,
+        "rr": 1.02,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Jauh",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-c9be0a600ef1",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "WLD",
+        "direction": "SHORT",
+        "entry": 0.393,
+        "entryRange": null,
+        "tp": [
+          0.334
+        ],
+        "sl": 0.406,
+        "rr": 4.54,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Jauh",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-c2314c9edd91",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "QQQB",
+        "direction": "SHORT",
+        "entry": 700.4,
+        "entryRange": null,
+        "tp": [
+          689.3
+        ],
+        "sl": 709.6,
+        "rr": 1.21,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Jauh",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-d90fb7a42ac5",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "ENA",
+        "direction": "SHORT",
+        "entry": 0.187,
+        "entryRange": null,
+        "tp": [
+          0.16
+        ],
+        "sl": 0.193,
+        "rr": 4.5,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Jauh",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-f2ddbff595a0",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "NVDAB",
+        "direction": "SHORT",
+        "entry": 210.2,
+        "entryRange": null,
+        "tp": [
+          202.3
+        ],
+        "sl": 214.5,
+        "rr": 1.84,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Jauh",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-e2935dbf3335",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "SPCXB",
+        "direction": "SHORT",
+        "entry": 142.2,
+        "entryRange": null,
+        "tp": [
+          120.5
+        ],
+        "sl": 146.1,
+        "rr": 5.56,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Jauh",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-7609342bfe08",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "UNI",
+        "direction": "SHORT",
+        "entry": 7.351,
+        "entryRange": null,
+        "tp": [
+          7.037
+        ],
+        "sl": 7.89,
+        "rr": 0.58,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Jauh",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-bda79b82c788",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "DOGE",
+        "direction": "SHORT",
+        "entry": 0.0763,
+        "entryRange": null,
+        "tp": [
+          0.0712
+        ],
+        "sl": 0.0788,
+        "rr": 2.04,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Menunggu retest",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-7191c3dc296e",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "AAVE",
+        "direction": "SHORT",
+        "entry": 137,
+        "entryRange": null,
+        "tp": [
+          115.2
+        ],
+        "sl": 140.6,
+        "rr": 6.06,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Menunggu retest",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-b382a7643555",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "TAO",
+        "direction": "SHORT",
+        "entry": 234.8,
+        "entryRange": null,
+        "tp": [
+          214.1
+        ],
+        "sl": 241.6,
+        "rr": 3.04,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Menunggu retest",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-829d76acc04d",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "ADA",
+        "direction": "SHORT",
+        "entry": 0.195,
+        "entryRange": null,
+        "tp": [
+          0.18
+        ],
+        "sl": 0.203,
+        "rr": 1.88,
+        "reason": "Sweep Monday High, lalu kembali masuk",
+        "timeframe": "4H",
+        "originalStatus": "Menunggu retest",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-fc488a5b43d4",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "PUMP",
+        "direction": "LONG",
+        "entry": 0.00387,
+        "entryRange": null,
+        "tp": [
+          0.00449
+        ],
+        "sl": 0.00372,
+        "rr": 4.13,
+        "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+        "timeframe": "4H",
+        "originalStatus": "Menunggu retest",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-91045d17ca4b",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "LINK",
+        "direction": "LONG",
+        "entry": 10.62,
+        "entryRange": null,
+        "tp": [
+          11.541
+        ],
+        "sl": 10.353,
+        "rr": 3.45,
+        "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+        "timeframe": "4H",
+        "originalStatus": "Menunggu retest",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-b061ec505128",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "NEAR",
+        "direction": "LONG",
+        "entry": 3.661,
+        "entryRange": null,
+        "tp": [
+          4.542
+        ],
+        "sl": 3.546,
+        "rr": 7.66,
+        "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+        "timeframe": "4H",
+        "originalStatus": "Menunggu retest",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-afe2038ddc9d",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "BNB",
+        "direction": "LONG",
+        "entry": 686.2,
+        "entryRange": null,
+        "tp": [
+          721.1
+        ],
+        "sl": 678,
+        "rr": 4.26,
+        "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+        "timeframe": "4H",
+        "originalStatus": "Aktif",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "crypto-5e7121d70af8",
+        "engine": "crypto",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "SOL",
+        "direction": "LONG",
+        "entry": 89.33,
+        "entryRange": null,
+        "tp": [
+          99.21
+        ],
+        "sl": 87.41,
+        "rr": 5.15,
+        "reason": "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah",
+        "timeframe": "4H",
+        "originalStatus": "Aktif",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "grok-ac8eeebe6ed5",
+        "engine": "grok",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "TAO",
+        "direction": "LONG",
+        "entry": 222.035,
+        "entryRange": [
+          221,
+          223.07
+        ],
+        "tp": [
+          234.8
+        ],
+        "sl": 219.2606,
+        "rr": 4.6,
+        "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+        "timeframe": "4h",
+        "originalStatus": "SETUP",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [
+          "LEVELS_ROUNDED_BY_UI: harga dibulatkan oleh tampilan sumber."
+        ],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
+        "id": "grok-31863e30d97a",
+        "engine": "grok",
+        "analysisWib": "2026-11-06 23:17",
+        "analysisUtc": "2026-11-06T16:17:17.472Z",
+        "ticker": "AVAX",
+        "direction": "LONG",
+        "entry": 8.311699999999998,
+        "entryRange": [
+          8.277,
+          8.3464
+        ],
+        "tp": [
+          8.74
+        ],
+        "sl": 8.2235,
+        "rr": 4.86,
+        "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+        "timeframe": "4h",
+        "originalStatus": "SETUP",
+        "result": "PENDING",
+        "resultUtc": null,
+        "resultWib": null,
+        "resultTimeSource": null,
+        "r": null,
+        "notes": [
+          "Belum ada candle tertutup setelah waktu analisis."
+        ],
+        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "warnings": [
+          "LEVELS_ROUNDED_BY_UI: harga dibulatkan oleh tampilan sumber."
+        ],
+        "isPrimary": false,
+        "analysisTimeSource": "first_seen",
+        "sourceResult": null,
+        "priceDataError": null
+      },
+      {
         "id": "crypto-612854cd0737",
         "engine": "crypto",
         "analysisWib": "2026-11-06 15:13",
@@ -136265,9 +138131,9 @@
         "resultTimeSource": null,
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "Entry terpicu; menunggu TP/SL."
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "IN_TRADE",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136291,15 +138157,15 @@
         "reason": "Sweep Monday Low, lalu reclaim",
         "timeframe": "4H",
         "originalStatus": "Jauh",
-        "result": "PENDING",
-        "resultUtc": null,
-        "resultWib": null,
-        "resultTimeSource": null,
+        "result": "EXPIRED",
+        "resultUtc": "2026-11-06T08:14:00.000Z",
+        "resultWib": "2026-11-06 15:14",
+        "resultTimeSource": "candle",
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "EXPIRED: TP_REACHED_BEFORE_ENTRY"
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "TP_REACHED_BEFORE_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136323,15 +138189,15 @@
         "reason": "Sweep Monday High, lalu kembali masuk",
         "timeframe": "4H",
         "originalStatus": "Jauh",
-        "result": "PENDING",
-        "resultUtc": null,
-        "resultWib": null,
-        "resultTimeSource": null,
+        "result": "EXPIRED",
+        "resultUtc": "2026-11-06T08:14:00.000Z",
+        "resultWib": "2026-11-06 15:14",
+        "resultTimeSource": "candle",
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "EXPIRED: TP_REACHED_BEFORE_ENTRY"
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "TP_REACHED_BEFORE_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136355,15 +138221,15 @@
         "reason": "Sweep Monday High, lalu kembali masuk",
         "timeframe": "4H",
         "originalStatus": "Jauh",
-        "result": "PENDING",
-        "resultUtc": null,
-        "resultWib": null,
-        "resultTimeSource": null,
+        "result": "EXPIRED",
+        "resultUtc": "2026-11-06T08:14:00.000Z",
+        "resultWib": "2026-11-06 15:14",
+        "resultTimeSource": "candle",
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "EXPIRED: TP_REACHED_BEFORE_ENTRY"
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "TP_REACHED_BEFORE_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136387,15 +138253,15 @@
         "reason": "Sweep Monday High, lalu kembali masuk",
         "timeframe": "4H",
         "originalStatus": "Jauh",
-        "result": "PENDING",
-        "resultUtc": null,
-        "resultWib": null,
-        "resultTimeSource": null,
+        "result": "EXPIRED",
+        "resultUtc": "2026-11-06T08:14:00.000Z",
+        "resultWib": "2026-11-06 15:14",
+        "resultTimeSource": "candle",
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "EXPIRED: TP_REACHED_BEFORE_ENTRY"
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "TP_REACHED_BEFORE_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136419,15 +138285,15 @@
         "reason": "Sweep Monday Low, lalu reclaim",
         "timeframe": "4H",
         "originalStatus": "Jauh",
-        "result": "PENDING",
-        "resultUtc": null,
-        "resultWib": null,
-        "resultTimeSource": null,
+        "result": "EXPIRED",
+        "resultUtc": "2026-11-06T08:14:00.000Z",
+        "resultWib": "2026-11-06 15:14",
+        "resultTimeSource": "candle",
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "EXPIRED: TP_REACHED_BEFORE_ENTRY"
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "TP_REACHED_BEFORE_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136457,9 +138323,9 @@
         "resultTimeSource": null,
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "Menunggu entry tersentuh."
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "WAITING_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136489,9 +138355,9 @@
         "resultTimeSource": null,
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "Menunggu entry tersentuh."
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "WAITING_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136515,15 +138381,15 @@
         "reason": "Sweep Monday High, lalu kembali masuk",
         "timeframe": "4H",
         "originalStatus": "Menunggu retest",
-        "result": "PENDING",
-        "resultUtc": null,
-        "resultWib": null,
-        "resultTimeSource": null,
+        "result": "EXPIRED",
+        "resultUtc": "2026-11-06T08:14:00.000Z",
+        "resultWib": "2026-11-06 15:14",
+        "resultTimeSource": "candle",
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "EXPIRED: TP_REACHED_BEFORE_ENTRY"
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "TP_REACHED_BEFORE_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136553,9 +138419,9 @@
         "resultTimeSource": null,
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "Menunggu entry tersentuh."
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "WAITING_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136585,9 +138451,9 @@
         "resultTimeSource": null,
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "Menunggu entry tersentuh."
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "WAITING_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136617,9 +138483,9 @@
         "resultTimeSource": null,
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "Menunggu entry tersentuh."
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "WAITING_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -136649,9 +138515,9 @@
         "resultTimeSource": null,
         "r": null,
         "notes": [
-          "Belum ada candle tertutup setelah waktu analisis."
+          "Menunggu entry tersentuh."
         ],
-        "reasonCode": "NO_CLOSED_CANDLES_YET",
+        "reasonCode": "WAITING_ENTRY",
         "warnings": [],
         "isPrimary": false,
         "analysisTimeSource": "first_seen",
@@ -174359,7 +176225,7 @@
   },
   "diagnostics": {
     "lastRun": {
-      "runAtUtc": "2026-11-06T08:13:10.818Z",
+      "runAtUtc": "2026-11-06T16:17:17.154Z",
       "engines": {
         "gemini": {
           "status": "OK",
@@ -174370,7 +176236,7 @@
           "warnings": [],
           "emptyKind": null,
           "httpStatus": 200,
-          "durationMs": 262,
+          "durationMs": 833,
           "forward": {
             "ready": false,
             "locked": true,
@@ -174398,7 +176264,7 @@
           ],
           "emptyKind": "NO_SETUPS",
           "httpStatus": 200,
-          "durationMs": 1311,
+          "durationMs": 1659,
           "forward": null,
           "trackingStarted": false
         },
@@ -174413,7 +176279,7 @@
           "warnings": [],
           "emptyKind": "ZERO_CARDS_UNCONFIRMED",
           "httpStatus": 200,
-          "durationMs": 137,
+          "durationMs": 202,
           "forward": null,
           "trackingStarted": false
         },
@@ -174426,7 +176292,7 @@
           "warnings": [],
           "emptyKind": null,
           "httpStatus": 200,
-          "durationMs": 206,
+          "durationMs": 803,
           "forward": {
             "ready": false,
             "locked": true,
@@ -174455,7 +176321,7 @@
           ],
           "emptyKind": "NEEDS_SELECTOR_VERIFICATION",
           "httpStatus": 200,
-          "durationMs": 15199,
+          "durationMs": 15506,
           "forward": null,
           "trackingStarted": false
         },
@@ -174463,31 +176329,32 @@
           "status": "OK",
           "cards": 6,
           "parsed": 6,
-          "added": 0,
+          "added": 2,
           "errors": [],
           "warnings": [
             "BTCUSDT: SHORT potensial — skor 95",
             "ETHUSDT: SHORT potensial — skor 100",
             "XRPUSDT: SHORT potensial — skor 100",
             "ADAUSDT: SHORT potensial — skor 92",
+            "DOGEUSDT: SHORT potensial — skor 86",
             "LINKUSDT: SHORT potensial — skor 88"
           ],
           "emptyKind": null,
           "httpStatus": 200,
-          "durationMs": 7667,
+          "durationMs": 9285,
           "forward": null,
           "trackingStarted": false
         },
         "crypto": {
           "status": "OK",
-          "cards": 30,
-          "parsed": 30,
-          "added": 20,
+          "cards": 35,
+          "parsed": 35,
+          "added": 30,
           "errors": [],
           "warnings": [],
           "emptyKind": null,
           "httpStatus": 200,
-          "durationMs": 9003,
+          "durationMs": 7253,
           "forward": null,
           "trackingStarted": false
         },
@@ -174495,25 +176362,25 @@
           "status": "OK",
           "cards": 498,
           "parsed": 498,
-          "added": 30,
+          "added": 0,
           "errors": [],
           "warnings": [],
           "emptyKind": null,
           "httpStatus": 200,
-          "durationMs": 240,
+          "durationMs": 299,
           "forward": {
             "ready": false,
             "locked": true,
             "counts": {
               "tercatat_sesuai_protokol": 200,
-              "selesai": 159,
-              "menunggu": 41,
-              "terisi": 114,
+              "selesai": 170,
+              "menunggu": 30,
+              "terisi": 117,
               "minggu_berbeda": 4,
               "diabaikan_mesin_lain": 0,
               "dilewati_dedupe": 283
             },
-            "dibuat": "2026-11-06T01:56:08.250Z"
+            "dibuat": "2026-11-06T08:47:49.805Z"
           },
           "trackingStarted": false
         },
@@ -174528,198 +176395,19 @@
           "warnings": [],
           "emptyKind": "FETCH_FAILED",
           "httpStatus": 404,
-          "durationMs": 7245,
+          "durationMs": 7673,
           "forward": null,
           "trackingStarted": false
         }
       },
       "evaluation": {
-        "checked": 173,
-        "changed": 28,
+        "checked": 177,
+        "changed": 9,
         "errors": []
       },
       "fatal": null
     },
     "runs": [
-      {
-        "runAtUtc": "2026-10-25T23:29:45.982Z",
-        "engines": {
-          "gemini": {
-            "status": "OK",
-            "cards": 118,
-            "parsed": 118,
-            "added": 0,
-            "errors": [],
-            "warnings": [],
-            "emptyKind": null,
-            "httpStatus": 200,
-            "durationMs": 181,
-            "forward": {
-              "ready": false,
-              "locked": true,
-              "counts": {
-                "tercatat_sesuai_protokol": 59,
-                "selesai": 35,
-                "menunggu": 24,
-                "terisi": 35,
-                "minggu_berbeda": 2,
-                "diabaikan_mesin_lain": 0,
-                "dilewati_dedupe": 44
-              },
-              "dibuat": "2026-10-20T00:03:25.001Z"
-            },
-            "trackingStarted": false
-          },
-          "chatgpt": {
-            "status": "OK_NO_SETUPS",
-            "cards": 0,
-            "parsed": 0,
-            "added": 0,
-            "errors": [],
-            "warnings": [
-              "FORWARD_REPORT_UNAVAILABLE: HTTP_404"
-            ],
-            "emptyKind": "NO_SETUPS",
-            "httpStatus": 200,
-            "durationMs": 1320,
-            "forward": null,
-            "trackingStarted": false
-          },
-          "mesindeepseek": {
-            "status": "ZERO_CARDS_UNCONFIRMED",
-            "cards": 0,
-            "parsed": 0,
-            "added": 0,
-            "errors": [
-              "NO_COIN_CARDS: struktur halaman berubah atau laporan kosong"
-            ],
-            "warnings": [],
-            "emptyKind": "ZERO_CARDS_UNCONFIRMED",
-            "httpStatus": 200,
-            "durationMs": 149,
-            "forward": null,
-            "trackingStarted": false
-          },
-          "deepseek": {
-            "status": "OK",
-            "cards": 2,
-            "parsed": 2,
-            "added": 0,
-            "errors": [],
-            "warnings": [],
-            "emptyKind": null,
-            "httpStatus": 200,
-            "durationMs": 141,
-            "forward": {
-              "ready": false,
-              "locked": true,
-              "counts": {
-                "tercatat_sesuai_protokol": 2,
-                "selesai": 0,
-                "menunggu": 2,
-                "terisi": 0,
-                "minggu_berbeda": 0,
-                "diabaikan_mesin_lain": 0,
-                "dilewati_dedupe": 0
-              },
-              "dibuat": "2026-10-20T12:59:42.163Z"
-            },
-            "trackingStarted": false
-          },
-          "grokberyl": {
-            "status": "NEEDS_SELECTOR_VERIFICATION",
-            "cards": 0,
-            "parsed": 0,
-            "added": 0,
-            "errors": [],
-            "warnings": [
-              "Tombol 'Pindai ulang' tidak ditemukan/tidak bisa diklik; mengandalkan pemindaian saat load.",
-              "Extractor belum tersedia untuk sumber ini."
-            ],
-            "emptyKind": "NEEDS_SELECTOR_VERIFICATION",
-            "httpStatus": 200,
-            "durationMs": 15281,
-            "forward": null,
-            "trackingStarted": false
-          },
-          "grok": {
-            "status": "OK",
-            "cards": 9,
-            "parsed": 9,
-            "added": 1,
-            "errors": [],
-            "warnings": [
-              "ETHUSDT: SHORT potensial — skor 81",
-              "TAOUSDT: SHORT potensial — skor 85"
-            ],
-            "emptyKind": null,
-            "httpStatus": 200,
-            "durationMs": 9479,
-            "forward": null,
-            "trackingStarted": false
-          },
-          "crypto": {
-            "status": "OK",
-            "cards": 31,
-            "parsed": 31,
-            "added": 3,
-            "errors": [],
-            "warnings": [],
-            "emptyKind": null,
-            "httpStatus": 200,
-            "durationMs": 9001,
-            "forward": null,
-            "trackingStarted": false
-          },
-          "tn": {
-            "status": "OK",
-            "cards": 237,
-            "parsed": 237,
-            "added": 0,
-            "errors": [],
-            "warnings": [],
-            "emptyKind": null,
-            "httpStatus": 200,
-            "durationMs": 208,
-            "forward": {
-              "ready": false,
-              "locked": true,
-              "counts": {
-                "tercatat_sesuai_protokol": 108,
-                "selesai": 76,
-                "menunggu": 32,
-                "terisi": 63,
-                "minggu_berbeda": 2,
-                "diabaikan_mesin_lain": 0,
-                "dilewati_dedupe": 114
-              },
-              "dibuat": "2026-10-25T20:38:22.033Z"
-            },
-            "trackingStarted": false
-          },
-          "tnv2": {
-            "status": "FAILED",
-            "cards": 0,
-            "parsed": 0,
-            "added": 0,
-            "errors": [
-              "JOURNAL_HTTP_404: HTTP_404"
-            ],
-            "warnings": [],
-            "emptyKind": "FETCH_FAILED",
-            "httpStatus": 404,
-            "durationMs": 7469,
-            "forward": null,
-            "trackingStarted": false
-          }
-        },
-        "evaluation": {
-          "checked": 165,
-          "changed": 4,
-          "errors": []
-        },
-        "fatal": null
-      },
       {
         "runAtUtc": "2026-10-26T01:27:38.829Z",
         "engines": {
@@ -183472,6 +185160,189 @@
         "evaluation": {
           "checked": 173,
           "changed": 28,
+          "errors": []
+        },
+        "fatal": null
+      },
+      {
+        "runAtUtc": "2026-11-06T16:17:17.154Z",
+        "engines": {
+          "gemini": {
+            "status": "OK",
+            "cards": 118,
+            "parsed": 118,
+            "added": 0,
+            "errors": [],
+            "warnings": [],
+            "emptyKind": null,
+            "httpStatus": 200,
+            "durationMs": 833,
+            "forward": {
+              "ready": false,
+              "locked": true,
+              "counts": {
+                "tercatat_sesuai_protokol": 59,
+                "selesai": 35,
+                "menunggu": 24,
+                "terisi": 35,
+                "minggu_berbeda": 2,
+                "diabaikan_mesin_lain": 0,
+                "dilewati_dedupe": 44
+              },
+              "dibuat": "2026-10-20T00:03:25.001Z"
+            },
+            "trackingStarted": false
+          },
+          "chatgpt": {
+            "status": "OK_NO_SETUPS",
+            "cards": 0,
+            "parsed": 0,
+            "added": 0,
+            "errors": [],
+            "warnings": [
+              "FORWARD_REPORT_UNAVAILABLE: HTTP_404"
+            ],
+            "emptyKind": "NO_SETUPS",
+            "httpStatus": 200,
+            "durationMs": 1659,
+            "forward": null,
+            "trackingStarted": false
+          },
+          "mesindeepseek": {
+            "status": "ZERO_CARDS_UNCONFIRMED",
+            "cards": 0,
+            "parsed": 0,
+            "added": 0,
+            "errors": [
+              "NO_COIN_CARDS: struktur halaman berubah atau laporan kosong"
+            ],
+            "warnings": [],
+            "emptyKind": "ZERO_CARDS_UNCONFIRMED",
+            "httpStatus": 200,
+            "durationMs": 202,
+            "forward": null,
+            "trackingStarted": false
+          },
+          "deepseek": {
+            "status": "OK",
+            "cards": 2,
+            "parsed": 2,
+            "added": 0,
+            "errors": [],
+            "warnings": [],
+            "emptyKind": null,
+            "httpStatus": 200,
+            "durationMs": 803,
+            "forward": {
+              "ready": false,
+              "locked": true,
+              "counts": {
+                "tercatat_sesuai_protokol": 2,
+                "selesai": 0,
+                "menunggu": 2,
+                "terisi": 0,
+                "minggu_berbeda": 0,
+                "diabaikan_mesin_lain": 0,
+                "dilewati_dedupe": 0
+              },
+              "dibuat": "2026-10-20T12:59:42.163Z"
+            },
+            "trackingStarted": false
+          },
+          "grokberyl": {
+            "status": "NEEDS_SELECTOR_VERIFICATION",
+            "cards": 0,
+            "parsed": 0,
+            "added": 0,
+            "errors": [],
+            "warnings": [
+              "Tombol 'Pindai ulang' tidak ditemukan/tidak bisa diklik; mengandalkan pemindaian saat load.",
+              "Extractor belum tersedia untuk sumber ini."
+            ],
+            "emptyKind": "NEEDS_SELECTOR_VERIFICATION",
+            "httpStatus": 200,
+            "durationMs": 15506,
+            "forward": null,
+            "trackingStarted": false
+          },
+          "grok": {
+            "status": "OK",
+            "cards": 6,
+            "parsed": 6,
+            "added": 2,
+            "errors": [],
+            "warnings": [
+              "BTCUSDT: SHORT potensial — skor 95",
+              "ETHUSDT: SHORT potensial — skor 100",
+              "XRPUSDT: SHORT potensial — skor 100",
+              "ADAUSDT: SHORT potensial — skor 92",
+              "DOGEUSDT: SHORT potensial — skor 86",
+              "LINKUSDT: SHORT potensial — skor 88"
+            ],
+            "emptyKind": null,
+            "httpStatus": 200,
+            "durationMs": 9285,
+            "forward": null,
+            "trackingStarted": false
+          },
+          "crypto": {
+            "status": "OK",
+            "cards": 35,
+            "parsed": 35,
+            "added": 30,
+            "errors": [],
+            "warnings": [],
+            "emptyKind": null,
+            "httpStatus": 200,
+            "durationMs": 7253,
+            "forward": null,
+            "trackingStarted": false
+          },
+          "tn": {
+            "status": "OK",
+            "cards": 498,
+            "parsed": 498,
+            "added": 0,
+            "errors": [],
+            "warnings": [],
+            "emptyKind": null,
+            "httpStatus": 200,
+            "durationMs": 299,
+            "forward": {
+              "ready": false,
+              "locked": true,
+              "counts": {
+                "tercatat_sesuai_protokol": 200,
+                "selesai": 170,
+                "menunggu": 30,
+                "terisi": 117,
+                "minggu_berbeda": 4,
+                "diabaikan_mesin_lain": 0,
+                "dilewati_dedupe": 283
+              },
+              "dibuat": "2026-11-06T08:47:49.805Z"
+            },
+            "trackingStarted": false
+          },
+          "tnv2": {
+            "status": "FAILED",
+            "cards": 0,
+            "parsed": 0,
+            "added": 0,
+            "errors": [
+              "JOURNAL_HTTP_404: HTTP_404"
+            ],
+            "warnings": [],
+            "emptyKind": "FETCH_FAILED",
+            "httpStatus": 404,
+            "durationMs": 7673,
+            "forward": null,
+            "trackingStarted": false
+          }
+        },
+        "evaluation": {
+          "checked": 177,
+          "changed": 9,
           "errors": []
         },
         "fatal": null
