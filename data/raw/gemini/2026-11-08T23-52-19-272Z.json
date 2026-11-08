@@ -4,21 +4,21 @@
     "httpStatus": 200,
     "errors": [],
     "warnings": [],
-    "durationMs": 244,
-    "source": "https://triasnugra.github.io/tn/data/journal.json",
+    "durationMs": 161,
+    "source": "https://gemini-mesin.vercel.app/data/journal.json",
     "forward": {
       "ready": false,
       "locked": true,
       "counts": {
         "tercatat_sesuai_protokol": 59,
-        "selesai": 34,
-        "menunggu": 25,
-        "terisi": 34,
+        "selesai": 35,
+        "menunggu": 24,
+        "terisi": 35,
         "minggu_berbeda": 2,
         "diabaikan_mesin_lain": 0,
         "dilewati_dedupe": 44
       },
-      "dibuat": "2026-10-19T15:21:47.562Z"
+      "dibuat": "2026-10-20T00:03:25.001Z"
     },
     "meta": null
   },
@@ -2174,13 +2174,14 @@
       "keyakinan": "",
       "alasan": "sweep Monday Low lalu reclaim",
       "alert": "",
-      "hasil": "menunggu",
-      "R": "",
+      "hasil": "TP",
+      "R": 2,
       "engine": "0537067ed55fc5be",
       "fwd": 1,
       "seq": 66,
       "prev": "45d2640bb9d21a99803a",
-      "h": "b8135ff340afe57fafa7"
+      "h": "b8135ff340afe57fafa7",
+      "tx": 1792443600000
     },
     {
       "id": "2026-10-17|Aturan Eliz|UNI",
