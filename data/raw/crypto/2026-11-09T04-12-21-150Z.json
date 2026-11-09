@@ -1,0 +1,647 @@
+{
+  "status": "OK",
+  "diagnostics": {
+    "httpStatus": 200,
+    "jsErrors": [],
+    "failedRequests": [],
+    "errors": [],
+    "warnings": [],
+    "stable": true,
+    "cardCount": 19,
+    "durationMs": 9089,
+    "meta": {
+      "summaryText": "Selesai: 19 koin punya setup, 40 koin dipantau.",
+      "summaryCount": 19,
+      "confirmedEmpty": false
+    }
+  },
+  "items": [
+    {
+      "ticker": "NVDAB",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Menunggu retest"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "179.4"
+        },
+        {
+          "label": "SL 1.0%",
+          "value": "177.6"
+        },
+        {
+          "label": "TP1",
+          "value": "200.9"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "24.2R"
+        }
+      ],
+      "notes": [
+        "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah. Harga 179.4, jarak ke entry 0.0%.",
+        "Konfirmasi: Tunggu close 4H di atas level"
+      ],
+      "size": "Risiko $10: qty 5.57 NVDAB, nilai posisi $1000",
+      "rawText": "NVDABLong4H, scalpingMenunggu retest Entry limit179.4SL 1.0%177.6TP1200.9Rasio ke target akhir24.2R Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah. Harga 179.4, jarak ke entry 0.0%.Konfirmasi: Tunggu close 4H di atas level Melawan struktur turun BTC. Volume 24 jam rendah, risiko slipRisiko $10: qty 5.57 NVDAB, nilai posisi $1000"
+    },
+    {
+      "ticker": "BNB",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "685.2"
+        },
+        {
+          "label": "SL 1.0%",
+          "value": "678.4"
+        },
+        {
+          "label": "TP1",
+          "value": "721.1"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "11.2R"
+        }
+      ],
+      "notes": [
+        "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah. Harga 689.0, jarak ke entry 0.6%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 1.46 BNB, nilai posisi $1000",
+      "rawText": "BNBLong4H, scalpingAktif Entry limit685.2SL 1.0%678.4TP1721.1Rasio ke target akhir11.2R Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah. Harga 689.0, jarak ke entry 0.6%.Konfirmasi: Retest tertahan di 4H Melawan struktur turun BTCRisiko $10: qty 1.46 BNB, nilai posisi $1000"
+    },
+    {
+      "ticker": "LINK",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Menunggu retest"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "10.411"
+        },
+        {
+          "label": "SL 1.3%",
+          "value": "10.279"
+        },
+        {
+          "label": "TP1",
+          "value": "11.541"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "18.2R"
+        }
+      ],
+      "notes": [
+        "Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah. Harga 10.609, jarak ke entry 1.9%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 75.8 LINK, nilai posisi $789",
+      "rawText": "LINKLong4H, scalpingMenunggu retest Entry limit10.411SL 1.3%10.279TP111.541Rasio ke target akhir18.2R Double Deviation: sweep ke-2 lebih dangkal, tekanan jual melemah. Harga 10.609, jarak ke entry 1.9%.Konfirmasi: Retest tertahan di 4H Melawan struktur turun BTC. Volume 24 jam rendah, risiko slipRisiko $10: qty 75.8 LINK, nilai posisi $789"
+    },
+    {
+      "ticker": "BTC",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "74992.0"
+        },
+        {
+          "label": "SL 1.8%",
+          "value": "76331.3"
+        },
+        {
+          "label": "TP1",
+          "value": "72385.5"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "3.8R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 74992.0, jarak ke entry 0.0%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 0.00747 BTC, nilai posisi $560",
+      "rawText": "BTCShort4H, scalpingAktif Entry limit74992.0SL 1.8%76331.3TP172385.5Rasio ke target akhir3.8R Breakdown, retest gagal (failed reclaim). Harga 74992.0, jarak ke entry 0.0%.Konfirmasi: Retest tertahan di 4H Risiko $10: qty 0.00747 BTC, nilai posisi $560"
+    },
+    {
+      "ticker": "NEAR",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "3.624"
+        },
+        {
+          "label": "SL 3.7%",
+          "value": "3.757"
+        },
+        {
+          "label": "TP1",
+          "value": "3.163"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "6.9R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 3.624, jarak ke entry 0.0%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 75.0 NEAR, nilai posisi $272",
+      "rawText": "NEARShort4H, scalpingAktif Entry limit3.624SL 3.7%3.757TP13.163Rasio ke target akhir6.9R Breakdown, retest gagal (failed reclaim). Harga 3.624, jarak ke entry 0.0%.Konfirmasi: Retest tertahan di 4H Risiko $10: qty 75.0 NEAR, nilai posisi $272"
+    },
+    {
+      "ticker": "LTC",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "51.110"
+        },
+        {
+          "label": "SL 2.3%",
+          "value": "52.272"
+        },
+        {
+          "label": "TP1",
+          "value": "48.240"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "4.9R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 51.110, jarak ke entry 0.0%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 8.61 LTC, nilai posisi $440",
+      "rawText": "LTCShort4H, scalpingAktif Entry limit51.110SL 2.3%52.272TP148.240Rasio ke target akhir4.9R Breakdown, retest gagal (failed reclaim). Harga 51.110, jarak ke entry 0.0%.Konfirmasi: Retest tertahan di 4H Volume 24 jam rendah, risiko slipRisiko $10: qty 8.61 LTC, nilai posisi $440"
+    },
+    {
+      "ticker": "ENA",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "0.153"
+        },
+        {
+          "label": "SL 2.1%",
+          "value": "0.157"
+        },
+        {
+          "label": "TP1",
+          "value": "0.135"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "11.0R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 0.153, jarak ke entry 0.1%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 3043 ENA, nilai posisi $467",
+      "rawText": "ENAShort4H, scalpingAktif Entry limit0.153SL 2.1%0.157TP10.135Rasio ke target akhir11.0R Breakdown, retest gagal (failed reclaim). Harga 0.153, jarak ke entry 0.1%.Konfirmasi: Retest tertahan di 4H Risiko $10: qty 3043 ENA, nilai posisi $467"
+    },
+    {
+      "ticker": "HYPE",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "74.450"
+        },
+        {
+          "label": "SL 1.3%",
+          "value": "73.508"
+        },
+        {
+          "label": "TP1",
+          "value": "86.095"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "24.7R"
+        }
+      ],
+      "notes": [
+        "Three Tap: 2 sentuhan, lalu sweep dan reclaim. Harga 74.610, jarak ke entry 0.2%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 10.6 HYPE, nilai posisi $791",
+      "rawText": "HYPELong4H, scalpingAktif Entry limit74.450SL 1.3%73.508TP186.095Rasio ke target akhir24.7R Three Tap: 2 sentuhan, lalu sweep dan reclaim. Harga 74.610, jarak ke entry 0.2%.Konfirmasi: Retest tertahan di 4H Melawan struktur turun BTCRisiko $10: qty 10.6 HYPE, nilai posisi $791"
+    },
+    {
+      "ticker": "ADA",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "0.178"
+        },
+        {
+          "label": "SL 2.5%",
+          "value": "0.182"
+        },
+        {
+          "label": "TP1",
+          "value": "0.164"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "6.0R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 0.177, jarak ke entry 0.4%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 2267 ADA, nilai posisi $403",
+      "rawText": "ADAShort4H, scalpingAktif Entry limit0.178SL 2.5%0.182TP10.164Rasio ke target akhir6.0R Breakdown, retest gagal (failed reclaim). Harga 0.177, jarak ke entry 0.4%.Konfirmasi: Retest tertahan di 4H Volume 24 jam rendah, risiko slipRisiko $10: qty 2267 ADA, nilai posisi $403"
+    },
+    {
+      "ticker": "DOGE",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "0.0702"
+        },
+        {
+          "label": "SL 2.5%",
+          "value": "0.0719"
+        },
+        {
+          "label": "TP1",
+          "value": "0.0668"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "3.9R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 0.0698, jarak ke entry 0.6%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 5792 DOGE, nilai posisi $407",
+      "rawText": "DOGEShort4H, scalpingAktif Entry limit0.0702SL 2.5%0.0719TP10.0668Rasio ke target akhir3.9R Breakdown, retest gagal (failed reclaim). Harga 0.0698, jarak ke entry 0.6%.Konfirmasi: Retest tertahan di 4H Risiko $10: qty 5792 DOGE, nilai posisi $407"
+    },
+    {
+      "ticker": "SOL",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "88.300"
+        },
+        {
+          "label": "SL 2.3%",
+          "value": "90.308"
+        },
+        {
+          "label": "TP1",
+          "value": "83.075"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "5.2R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 87.590, jarak ke entry 0.8%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 4.98 SOL, nilai posisi $440",
+      "rawText": "SOLShort4H, scalpingAktif Entry limit88.300SL 2.3%90.308TP183.075Rasio ke target akhir5.2R Breakdown, retest gagal (failed reclaim). Harga 87.590, jarak ke entry 0.8%.Konfirmasi: Retest tertahan di 4H Risiko $10: qty 4.98 SOL, nilai posisi $440"
+    },
+    {
+      "ticker": "SUI",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "0.828"
+        },
+        {
+          "label": "SL 3.8%",
+          "value": "0.796"
+        },
+        {
+          "label": "TP1",
+          "value": "0.942"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "7.3R"
+        }
+      ],
+      "notes": [
+        "Three Tap: 2 sentuhan, lalu sweep dan reclaim. Harga 0.835, jarak ke entry 0.9%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 320 SUI, nilai posisi $265",
+      "rawText": "SUILong4H, scalpingAktif Entry limit0.828SL 3.8%0.796TP10.942Rasio ke target akhir7.3R Three Tap: 2 sentuhan, lalu sweep dan reclaim. Harga 0.835, jarak ke entry 0.9%.Konfirmasi: Retest tertahan di 4H Melawan struktur turun BTCRisiko $10: qty 320 SUI, nilai posisi $265"
+    },
+    {
+      "ticker": "MSTRB",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Menunggu retest"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "124.1"
+        },
+        {
+          "label": "SL 1.9%",
+          "value": "121.8"
+        },
+        {
+          "label": "TP1",
+          "value": "139.9"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "13.7R"
+        }
+      ],
+      "notes": [
+        "Three Tap: 2 sentuhan, lalu sweep dan reclaim. Harga 126.1, jarak ke entry 1.6%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 4.32 MSTRB, nilai posisi $537",
+      "rawText": "MSTRBLong4H, scalpingMenunggu retest Entry limit124.1SL 1.9%121.8TP1139.9Rasio ke target akhir13.7R Three Tap: 2 sentuhan, lalu sweep dan reclaim. Harga 126.1, jarak ke entry 1.6%.Konfirmasi: Retest tertahan di 4H Melawan struktur turun BTC. Volume 24 jam rendah, risiko slipRisiko $10: qty 4.32 MSTRB, nilai posisi $537"
+    },
+    {
+      "ticker": "MUB",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "1D, swing",
+        "Menunggu retest"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "706.4"
+        },
+        {
+          "label": "SL 14.0%",
+          "value": "805.4"
+        },
+        {
+          "label": "TP1",
+          "value": "604.5"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "2.1R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 692.9, jarak ke entry 1.9%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 0.101 MUB, nilai posisi $71",
+      "rawText": "MUBShort1D, swingMenunggu retest Entry limit706.4SL 14.0%805.4TP1604.5Rasio ke target akhir2.1R Breakdown, retest gagal (failed reclaim). Harga 692.9, jarak ke entry 1.9%.Konfirmasi: Retest tertahan di 4H Volume 24 jam rendah, risiko slipRisiko $10: qty 0.101 MUB, nilai posisi $71"
+    },
+    {
+      "ticker": "XRP",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "1D, swing",
+        "Jauh"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "1.250"
+        },
+        {
+          "label": "SL 8.4%",
+          "value": "1.356"
+        },
+        {
+          "label": "TP2",
+          "value": "0.986"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "2.5R"
+        }
+      ],
+      "notes": [
+        "Wolf bearish: breakout trendline gagal. Harga 1.113, jarak ke entry 12.3%.",
+        "Konfirmasi: Di sisi benar level, belum retest"
+      ],
+      "size": "Risiko $10: qty 95.1 XRP, nilai posisi $119",
+      "rawText": "XRPShort1D, swingJauh Entry limit1.250SL 8.4%1.356TP20.986Rasio ke target akhir2.5R Wolf bearish: breakout trendline gagal. Harga 1.113, jarak ke entry 12.3%.Konfirmasi: Di sisi benar level, belum retest Risiko $10: qty 95.1 XRP, nilai posisi $119"
+    },
+    {
+      "ticker": "AVAX",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "8.000"
+        },
+        {
+          "label": "SL 3.2%",
+          "value": "7.741"
+        },
+        {
+          "label": "TP1",
+          "value": "9.027"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "7.9R"
+        }
+      ],
+      "notes": [
+        "Sweep di bawah range, lalu reclaim. Harga 8.036, jarak ke entry 0.4%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 38.6 AVAX, nilai posisi $308",
+      "rawText": "AVAXLong4H, scalpingAktif Entry limit8.000SL 3.2%7.741TP19.027Rasio ke target akhir7.9R Sweep di bawah range, lalu reclaim. Harga 8.036, jarak ke entry 0.4%.Konfirmasi: Retest tertahan di 4H Melawan struktur turun BTC. Volume 24 jam rendah, risiko slipRisiko $10: qty 38.6 AVAX, nilai posisi $308"
+    },
+    {
+      "ticker": "PUMP",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "0.00357"
+        },
+        {
+          "label": "SL 3.4%",
+          "value": "0.00345"
+        },
+        {
+          "label": "TP1",
+          "value": "0.00440"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "13.6R"
+        }
+      ],
+      "notes": [
+        "Sweep di bawah range, lalu reclaim. Harga 0.00360, jarak ke entry 0.8%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 82365 PUMP, nilai posisi $294",
+      "rawText": "PUMPLong4H, scalpingAktif Entry limit0.00357SL 3.4%0.00345TP10.00440Rasio ke target akhir13.6R Sweep di bawah range, lalu reclaim. Harga 0.00360, jarak ke entry 0.8%.Konfirmasi: Retest tertahan di 4H Melawan struktur turun BTC. Volume 24 jam rendah, risiko slipRisiko $10: qty 82365 PUMP, nilai posisi $294"
+    },
+    {
+      "ticker": "WLD",
+      "direction": "Short",
+      "chips": [
+        "Short",
+        "4H, scalping",
+        "Aktif"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "0.328"
+        },
+        {
+          "label": "SL 1.9%",
+          "value": "0.335"
+        },
+        {
+          "label": "TP1",
+          "value": "0.261"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "21.3R"
+        }
+      ],
+      "notes": [
+        "Breakdown, retest gagal (failed reclaim). Harga 0.324, jarak ke entry 1.4%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 1581 WLD, nilai posisi $519",
+      "rawText": "WLDShort4H, scalpingAktif Entry limit0.328SL 1.9%0.335TP10.261Rasio ke target akhir21.3R Breakdown, retest gagal (failed reclaim). Harga 0.324, jarak ke entry 1.4%.Konfirmasi: Retest tertahan di 4H Volume 24 jam rendah, risiko slipRisiko $10: qty 1581 WLD, nilai posisi $519"
+    },
+    {
+      "ticker": "TAO",
+      "direction": "Long",
+      "chips": [
+        "Long",
+        "4H, scalping",
+        "Menunggu retest"
+      ],
+      "rows": [
+        {
+          "label": "Entry limit",
+          "value": "212.1"
+        },
+        {
+          "label": "SL 1.5%",
+          "value": "208.9"
+        },
+        {
+          "label": "TP1",
+          "value": "246.8"
+        },
+        {
+          "label": "Rasio ke target akhir",
+          "value": "21.5R"
+        }
+      ],
+      "notes": [
+        "Sweep di bawah range, lalu reclaim. Harga 217.3, jarak ke entry 2.4%.",
+        "Konfirmasi: Retest tertahan di 4H"
+      ],
+      "size": "Risiko $10: qty 3.11 TAO, nilai posisi $659",
+      "rawText": "TAOLong4H, scalpingMenunggu retest Entry limit212.1SL 1.5%208.9TP1246.8Rasio ke target akhir21.5R Sweep di bawah range, lalu reclaim. Harga 217.3, jarak ke entry 2.4%.Konfirmasi: Retest tertahan di 4H Melawan struktur turun BTC. Volume 24 jam rendah, risiko slipRisiko $10: qty 3.11 TAO, nilai posisi $659"
+    }
+  ]
+}
