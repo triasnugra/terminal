@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "diagnostics": {
+    "httpStatus": 200,
+    "errors": [],
+    "warnings": [
+      "BTCUSDT: SHORT potensial — skor 84",
+      "ETHUSDT: SHORT potensial — skor 100",
+      "BNBUSDT: SHORT potensial — skor 81",
+      "XRPUSDT: SHORT potensial — skor 100",
+      "ADAUSDT: SHORT potensial — skor 81",
+      "DOGEUSDT: SHORT potensial — skor 84",
+      "LINKUSDT: SHORT potensial — skor 81"
+    ],
+    "durationMs": 7075,
+    "meta": {
+      "perPair": {
+        "SOLUSDT": 1,
+        "AVAXUSDT": 1,
+        "TAOUSDT": 2
+      },
+      "confirmedEmpty": false
+    }
+  },
+  "items": [
+    {
+      "direction": "SHORT",
+      "score": 90,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 87.962,
+      "entryHigh": 88.46,
+      "sl": 89.7792,
+      "tp": 85.14,
+      "symbol": "SOL/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 84,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 7.814,
+      "entryHigh": 7.994,
+      "sl": 7.7575,
+      "tp": 9.014,
+      "symbol": "AVAX/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 88,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 212.1,
+      "entryHigh": 214.17,
+      "sl": 209.4802,
+      "tp": 225.9,
+      "symbol": "TAO/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 82,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 223.83,
+      "entryHigh": 225.9,
+      "sl": 226.953,
+      "tp": 212.1,
+      "symbol": "TAO/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    }
+  ]
+}
