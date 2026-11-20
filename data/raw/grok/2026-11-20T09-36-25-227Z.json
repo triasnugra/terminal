@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "diagnostics": {
+    "httpStatus": 200,
+    "errors": [],
+    "warnings": [
+      "BTCUSDT: SHORT potensial — skor 81",
+      "ETHUSDT: SHORT potensial — skor 99",
+      "BNBUSDT: SHORT potensial — skor 82",
+      "ADAUSDT: SHORT potensial — skor 81",
+      "DOGEUSDT: SHORT potensial — skor 82",
+      "LINKUSDT: SHORT potensial — skor 84",
+      "TAOUSDT: SHORT potensial — skor 87"
+    ],
+    "durationMs": 7659,
+    "meta": {
+      "perPair": {
+        "SOLUSDT": 2,
+        "XRPUSDT": 2,
+        "AVAXUSDT": 1
+      },
+      "confirmedEmpty": false
+    }
+  },
+  "items": [
+    {
+      "direction": "SHORT",
+      "score": 87,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 72.4715,
+      "entryHigh": 72.92,
+      "sl": 73.7071,
+      "tp": 69.93,
+      "symbol": "SOL/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 82,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 69.93,
+      "entryHigh": 70.3785,
+      "sl": 69.6404,
+      "tp": 72.92,
+      "symbol": "SOL/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 100,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 0.9424,
+      "entryHigh": 0.9476,
+      "sl": 0.8974,
+      "tp": 0.9769,
+      "symbol": "XRP/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 83,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 0.9717,
+      "entryHigh": 0.9769,
+      "sl": 0.9825,
+      "tp": 0.9424,
+      "symbol": "XRP/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 83,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 7.2742,
+      "entryHigh": 7.318,
+      "sl": 7.3567,
+      "tp": 7.026,
+      "symbol": "AVAX/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    }
+  ]
+}
