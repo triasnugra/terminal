@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "diagnostics": {
+    "httpStatus": 200,
+    "errors": [],
+    "warnings": [
+      "BTCUSDT: SHORT potensial — skor 81",
+      "ETHUSDT: SHORT potensial — skor 99",
+      "SOLUSDT: SHORT potensial — skor 87",
+      "BNBUSDT: SHORT potensial — skor 82",
+      "XRPUSDT: SHORT potensial — skor 83",
+      "ADAUSDT: SHORT potensial — skor 81",
+      "DOGEUSDT: SHORT potensial — skor 82",
+      "LINKUSDT: SHORT potensial — skor 84",
+      "TAOUSDT: SHORT potensial — skor 87"
+    ],
+    "durationMs": 6115,
+    "meta": {
+      "perPair": {
+        "AVAXUSDT": 1
+      },
+      "confirmedEmpty": false
+    }
+  },
+  "items": [
+    {
+      "direction": "SHORT",
+      "score": 83,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 7.2742,
+      "entryHigh": 7.318,
+      "sl": 7.3567,
+      "tp": 7.026,
+      "symbol": "AVAX/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    }
+  ]
+}
