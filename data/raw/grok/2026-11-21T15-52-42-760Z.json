@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "diagnostics": {
+    "httpStatus": 200,
+    "errors": [],
+    "warnings": [
+      "BTCUSDT: SHORT potensial — skor 81",
+      "BNBUSDT: SHORT potensial — skor 82",
+      "XRPUSDT: SHORT potensial — skor 83",
+      "ADAUSDT: SHORT potensial — skor 81",
+      "DOGEUSDT: SHORT potensial — skor 82",
+      "AVAXUSDT: SHORT potensial — skor 83",
+      "LINKUSDT: SHORT potensial — skor 84"
+    ],
+    "durationMs": 6543,
+    "meta": {
+      "perPair": {
+        "ETHUSDT": 0,
+        "SOLUSDT": 2,
+        "TAOUSDT": 3
+      },
+      "confirmedEmpty": false
+    }
+  },
+  "items": [
+    {
+      "direction": "LONG",
+      "score": 94,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 69.93,
+      "entryHigh": 70.3785,
+      "sl": 68.5925,
+      "tp": 72.92,
+      "symbol": "SOL/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 87,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 72.4715,
+      "entryHigh": 72.92,
+      "sl": 73.7071,
+      "tp": 69.93,
+      "symbol": "SOL/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 100,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 185.7,
+      "entryHigh": 187.155,
+      "sl": 180.2388,
+      "tp": 195.4,
+      "symbol": "TAO/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 87,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 193.945,
+      "entryHigh": 195.4,
+      "sl": 197.5944,
+      "tp": 185.7,
+      "symbol": "TAO/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 77,
+      "reason": "Sweep + reclaim di Demand / support.",
+      "entryLow": 184.4313,
+      "entryHigh": 194.2,
+      "sl": 180.0582,
+      "tp": null,
+      "symbol": "TAO/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    }
+  ]
+}
