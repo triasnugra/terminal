@@ -1,0 +1,130 @@
+{
+  "status": "OK",
+  "diagnostics": {
+    "httpStatus": 200,
+    "errors": [],
+    "warnings": [],
+    "durationMs": 10006,
+    "meta": {
+      "perPair": {
+        "BTCUSDT": 0,
+        "ETHUSDT": 0,
+        "SOLUSDT": 1,
+        "BNBUSDT": 2,
+        "XRPUSDT": 1,
+        "ADAUSDT": 1,
+        "DOGEUSDT": 1,
+        "AVAXUSDT": 1,
+        "LINKUSDT": 1,
+        "TAOUSDT": 0
+      },
+      "confirmedEmpty": false
+    }
+  },
+  "items": [
+    {
+      "direction": "LONG",
+      "score": 100,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 69.89,
+      "entryHigh": 71.1785,
+      "sl": 67.0955,
+      "tp": 78.48,
+      "symbol": "SOL/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 100,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 550.82,
+      "entryHigh": 556.301,
+      "sl": 533.5408,
+      "tp": 587.36,
+      "symbol": "BNB/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "SHORT",
+      "score": 84,
+      "reason": "Break Monday High, deviation, lalu kembali masuk range.",
+      "entryLow": 581.879,
+      "entryHigh": 587.36,
+      "sl": 591.18,
+      "tp": 550.82,
+      "symbol": "BNB/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 93,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 0.913,
+      "entryHigh": 0.93,
+      "sl": 0.8964,
+      "tp": 1.026,
+      "symbol": "XRP/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 100,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 0.142,
+      "entryHigh": 0.1442,
+      "sl": 0.1382,
+      "tp": 0.1564,
+      "symbol": "ADA/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 98,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 0.05436,
+      "entryHigh": 0.05524,
+      "sl": 0.053,
+      "tp": 0.06024,
+      "symbol": "DOGE/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 100,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 6.561,
+      "entryHigh": 6.6612,
+      "sl": 6.3004,
+      "tp": 7.229,
+      "symbol": "AVAX/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    },
+    {
+      "direction": "LONG",
+      "score": 89,
+      "reason": "Sweep Monday Low lalu reclaim ke dalam range.",
+      "entryLow": 8.712,
+      "entryHigh": 8.8389,
+      "sl": 8.5918,
+      "tp": 9.558,
+      "symbol": "LINK/USDT",
+      "interval": "4h",
+      "status": "SETUP",
+      "roundedByUi": true
+    }
+  ]
+}
